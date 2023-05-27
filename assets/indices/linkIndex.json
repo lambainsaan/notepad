@@ -13,203 +13,1134 @@
           "text": "something-else/Music"
         }
       ],
-      "/something-else/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95": [
+      "/private/Conversations/Marcello-2023-05-19": [
         {
-          "source": "/something-else/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "source": "/private/Conversations/Marcello-2023-05-19",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+          "text": "Marcello"
+        }
+      ],
+      "/private/Conversations/Ritesh-Dave": [
+        {
+          "source": "/private/Conversations/Ritesh-Dave",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        }
+      ],
+      "/private/Conversations/Ritesh-Dave-1": [
+        {
+          "source": "/private/Conversations/Ritesh-Dave-1",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        }
+      ],
+      "/private/Conversations/Ritesh-Dave-2023-05-06": [
+        {
+          "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+          "target": "/Humans-of-Rhitiks-Life/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        },
+        {
+          "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+          "target": "/Knowledge-builder",
+          "text": "Knowledge builder"
+        },
+        {
+          "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        }
+      ],
+      "/private/Conversations/Sheetal-Tiwari-2023-05-20": [
+        {
+          "source": "/private/Conversations/Sheetal-Tiwari-2023-05-20",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Friend/Sheetal-Tiwari",
+          "text": "Sheetal Tiwari"
+        }
+      ],
+      "/private/Courses/In-Progress/Introduction-to-Transformer-Models-for-NLP": [
+        {
+          "source": "/private/Courses/In-Progress/Introduction-to-Transformer-Models-for-NLP",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Sinan-Ozdemir",
+          "text": "Sinan Ozdemir"
+        }
+      ],
+      "/private/Day-View/2023-05-06": [
+        {
+          "source": "/private/Day-View/2023-05-06",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "non-published-notes/Conversations/Ritesh Dave"
+        },
+        {
+          "source": "/private/Day-View/2023-05-06",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "non-published-notes/Conversations/Ritesh Dave"
+        },
+        {
+          "source": "/private/Day-View/2023-05-06",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "non-published-notes/Conversations/Ritesh Dave"
+        }
+      ],
+      "/private/Day-View/2023-05-10": [
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Imperio",
+          "text": "non-published-notes/Knowledge/Imperio"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/Prashant-Chaurasia",
+          "text": "Prashant Chaurasia"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+          "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Imperio",
+          "text": "non-published-notes/Knowledge/Imperio"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+          "text": "non-published-notes/Knowledge/Data Processing Repos"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+          "text": "non-published-notes/Knowledge/PIM PDB API"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+          "text": "non-published-notes/Knowledge/Data Processing Repos"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+          "text": "non-published-notes/Knowledge/Data Processing Repos"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/PIM-Gateway",
+          "text": "non-published-notes/Knowledge/PIM Gateway"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/PIM-Subscriber",
+          "text": "PIM Subscriber"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+          "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+        }
+      ],
+      "/private/Day-View/2023-05-11": [
+        {
+          "source": "/private/Day-View/2023-05-11",
+          "target": "/non-published-notes/Knowledge/Document-Analysis",
+          "text": "non-published-notes/Knowledge/Document Analysis"
+        },
+        {
+          "source": "/private/Day-View/2023-05-11",
+          "target": "/non-published-notes/Knowledge/Image-Service",
+          "text": "non-published-notes/Knowledge/Image Service"
+        },
+        {
+          "source": "/private/Day-View/2023-05-11",
+          "target": "/non-published-notes/Knowledge/Schema-Config",
+          "text": "non-published-notes/Knowledge/Schema Config"
+        },
+        {
+          "source": "/private/Day-View/2023-05-11",
+          "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+          "text": "non-published-notes/Knowledge/PIM PDB API"
+        }
+      ],
+      "/private/Day-View/2023-05-12": [
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Unknown/Andy-Puddicombe",
+          "text": "non-published-notes/Humans of Rhitik's Life/Unknown/Andy Puddicombe"
+        },
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Ashutosh-Kumar",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Ashutosh Kumar"
+        },
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family-Friend/Jainendra-Trivedi",
+          "text": "non-published-notes/Humans of Rhitik's Life/Family Friend/Jainendra Trivedi"
+        },
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family-Friend/Vimal-Bhatt",
+          "text": "non-published-notes/Humans of Rhitik's Life/Family Friend/Vimal Bhatt"
+        },
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+          "text": "non-published-notes/Knowledge/PIM PDB API"
+        },
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Sudhir-Kapoor",
+          "text": "non-published-notes/Humans of Rhitik's Life/Family/Sudhir Kapoor"
+        }
+      ],
+      "/private/Day-View/2023-05-13": [
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/non-published-notes/Knowledge/AI/Acitivity-Diagram",
+          "text": "non-published-notes/Knowledge/AI/Acitivity Diagram"
+        },
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/non-published-notes/Knowledge/AI/Acitivity-Diagram",
+          "text": "non-published-notes/Knowledge/AI/Acitivity Diagram"
+        },
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "non-published-notes/Ideas/AI/Researcher"
+        },
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-15": [
+        {
+          "source": "/private/Day-View/2023-05-15",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-15",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-15",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "text": "non-published-notes/Knowledge/PIM Exploration/Data Processing Infra"
+        },
+        {
+          "source": "/private/Day-View/2023-05-15",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-19": [
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Marcello"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/Humans-of-Rhitiks-Life/Maria",
+          "text": "Humans of Rhitik's Life/Maria"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/Humans-of-Rhitiks-Life/Michal",
+          "text": "Humans of Rhitik's Life/Michal"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-20": [
+        {
+          "source": "/private/Day-View/2023-05-20",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-20",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-20",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-21": [
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "Researcher"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/non-published-notes/Knowledge/Research-1/Pix2struct",
+          "text": "non-published-notes/Knowledge/Research 1/Pix2struct"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/non-published-notes/Knowledge/Research-1/Deplot",
+          "text": "non-published-notes/Knowledge/Research 1/Deplot"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-22": [
+        {
+          "source": "/private/Day-View/2023-05-22",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-22",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-22",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-23": [
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Harsh-Vardhan",
+          "text": "non-published-notes/Humans of Rhitik's Life/Harsh Vardhan"
+        },
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Marcello"
+        },
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-24": [
+        {
+          "source": "/private/Day-View/2023-05-24",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-24",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-24",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-25": [
+        {
+          "source": "/private/Day-View/2023-05-25",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-25",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-25",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Day-View/2023-05-26": [
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/non-published-notes/Content/Videos/Scorecard-Health",
+          "text": "non-published-notes/Content/Videos/Scorecard Health"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        }
+      ],
+      "/private/Day-View/2023-05-27": [
+        {
+          "source": "/private/Day-View/2023-05-27",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-27",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-27",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Humans-of-Rhitiks-Life/Colleague/Marcello": [
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Colleague/Marcello",
+          "target": "/non-published-notes/Conversations/Marcello-2023-05-19",
+          "text": "Marcello-2023-05-19"
+        }
+      ],
+      "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave": [
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "target": "/",
+          "text": "#9th May"
+        },
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        },
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        },
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave-1",
+          "text": "Ritesh Dave-1"
+        }
+      ],
+      "/private/Humans-of-Rhitiks-Life/Friend/Sheetal-Tiwari": [
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Friend/Sheetal-Tiwari",
+          "target": "/non-published-notes/Conversations/Sheetal-Tiwari-2023-05-20",
+          "text": "Sheetal Tiwari - 2023-05-20"
+        }
+      ],
+      "/private/Ideas/AI/Human-Conversation-Tracker": [
+        {
+          "source": "/private/Ideas/AI/Human-Conversation-Tracker",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+        },
+        {
+          "source": "/private/Ideas/AI/Human-Conversation-Tracker",
+          "target": "/non-published-notes/Knowledge/Tool/CRM",
+          "text": "CRM"
+        }
+      ],
+      "/private/Ideas/AI/Researcher": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/AI/Hugging-Face",
+          "text": "non-published-notes/Knowledge/AI/Hugging Face"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/Learning/NLP",
+          "text": "Learning/NLP"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Factual-Entity/HR",
+          "text": "non-published-notes/Knowledge/Factual Entity/HR"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/AI/Hugging-Face",
+          "text": "Hugging Face"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Implementations/Embedding-Based-Implementation",
+          "text": "non-published-notes/Knowledge/Researcher/Implementations/Embedding Based Implementation"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Activity-Diagram",
+          "text": "non-published-notes/Knowledge/Researcher/Activity Diagram"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/PDF-Ingestion",
+          "text": "non-published-notes/Knowledge/Researcher/PDF Ingestion"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Search-Term-Ingestion",
+          "text": "non-published-notes/Knowledge/Researcher/Search Term Ingestion"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/Researcher/URL-Ingestion",
+          "text": "Researcher/URL Ingestion"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/Researcher/Manual-Text-Ingestion",
+          "text": "Researcher/Manual Text Ingestion"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-no-human-intervention",
+          "text": "non-published-notes/Knowledge/Researcher/Notification which requires no human intervention"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-action",
+          "text": "non-published-notes/Knowledge/Researcher/Notification which requires action"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-no-human-intervention",
+          "text": "non-published-notes/Knowledge/Researcher/Notification which requires no human intervention"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "Researcher"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Research-1/Pix2struct",
+          "text": "non-published-notes/Knowledge/Research 1/Pix2struct"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Research-1/Deplot",
+          "text": "non-published-notes/Knowledge/Research 1/Deplot"
+        }
+      ],
+      "/private/Ideas/Software-Development/Slack-Huddle-Recorder": [
+        {
+          "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+          "target": "/non-published-notes/Knowledge/Tool/Free-Audio-Recorders",
+          "text": "Free Audio Recorders"
+        },
+        {
+          "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+        },
+        {
+          "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+          "target": "/non-published-notes/Ideas/Tools/Slack-Reply-Recommender",
+          "text": "non-published-notes/Ideas/Tools/Slack Reply Recommender"
+        },
+        {
+          "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+          "target": "/non-published-notes/Ideas/Tools/Conversation-Copliot",
+          "text": "non-published-notes/Ideas/Tools/Conversation Copliot"
+        }
+      ],
+      "/private/Ideas/Tools/Conversation-Copliot": [
+        {
+          "source": "/private/Ideas/Tools/Conversation-Copliot",
+          "target": "/non-published-notes/Entites/Tools/Slack",
+          "text": "non-published-notes/Entites/Tools/Slack"
+        },
+        {
+          "source": "/private/Ideas/Tools/Conversation-Copliot",
+          "target": "/non-published-notes/Knowledge/Factual-Entity/Team-Managers",
+          "text": "non-published-notes/Knowledge/Factual Entity/Team Managers"
+        },
+        {
+          "source": "/private/Ideas/Tools/Conversation-Copliot",
+          "target": "/non-published-notes/Knowledge/Factual-Entity/Individuals",
+          "text": "non-published-notes/Knowledge/Factual Entity/Individuals"
+        },
+        {
+          "source": "/private/Ideas/Tools/Conversation-Copliot",
+          "target": "/In-Progress",
+          "text": "In Progress"
+        }
+      ],
+      "/private/Knowledge/1.3": [
+        {
+          "source": "/private/Knowledge/1.3",
+          "target": "/non-published-notes/Knowledge/Cross-Attention",
+          "text": "non-published-notes/Knowledge/Cross Attention"
+        },
+        {
+          "source": "/private/Knowledge/1.3",
+          "target": "/non-published-notes/Knowledge/Multi-Head-Attention",
+          "text": "non-published-notes/Knowledge/Multi Head Attention"
+        },
+        {
+          "source": "/private/Knowledge/1.3",
+          "target": "/non-published-notes/Knowledge/Masked-Multi-Headed-Attention",
+          "text": "non-published-notes/Knowledge/Masked Multi Headed Attention"
+        }
+      ],
+      "/private/Knowledge/1.4": [
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Auto-Regressive",
+          "text": "non-published-notes/Knowledge/Auto Regressive"
+        },
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Auto-Encoding",
+          "text": "non-published-notes/Knowledge/Auto Encoding"
+        },
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Auto-Regressive",
+          "text": "non-published-notes/Knowledge/Auto Regressive"
+        },
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Auto-Encoding",
+          "text": "non-published-notes/Knowledge/Auto Encoding"
+        },
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Transformers",
+          "text": "non-published-notes/Knowledge/Transformers"
+        }
+      ],
+      "/private/Knowledge/AI/Hugging-Face": [
+        {
+          "source": "/private/Knowledge/AI/Hugging-Face",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "Researcher"
+        }
+      ],
+      "/private/Knowledge/How-to-win-friends-and-influence-people": [
+        {
+          "source": "/private/Knowledge/How-to-win-friends-and-influence-people",
+          "target": "/",
+          "text": ""
+        }
+      ],
+      "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/Bags-of-words-Model",
+          "text": "non-published-notes/Knowledge/Bags of words Model"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/RNN",
+          "text": "non-published-notes/Knowledge/RNN"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/RNN",
+          "text": "non-published-notes/Knowledge/RNN"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/Encoder",
+          "text": "non-published-notes/Knowledge/Encoder"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/Decoder",
+          "text": "non-published-notes/Knowledge/Decoder"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/Transformers",
+          "text": "non-published-notes/Knowledge/Transformers"
+        }
+      ],
+      "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+          "target": "/non-published-notes/Knowledge/Attention",
+          "text": "non-published-notes/Knowledge/Attention"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+          "target": "/non-published-notes/Knowledge/Attention",
+          "text": "non-published-notes/Knowledge/Attention"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+          "target": "/non-published-notes/Knowledge/Self-Attention",
+          "text": "non-published-notes/Knowledge/Self Attention"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+          "target": "/non-published-notes/Knowledge/scaled-dot-product-attention",
+          "text": "non-published-notes/Knowledge/scaled dot product attention"
+        }
+      ],
+      "/private/Knowledge/Obsidian/Obsidian-Alignment-Tracker": [
+        {
+          "source": "/private/Knowledge/Obsidian/Obsidian-Alignment-Tracker",
+          "target": "/non-published-notes/Goal/_Goals-Database",
+          "text": "non-published-notes/Goal/_Goals Database"
+        }
+      ],
+      "/private/Knowledge/PIM-Exploration/Data-Processing-Infra": [
+        {
+          "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+          "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+        },
+        {
+          "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Integration",
+          "text": "non-published-notes/Knowledge/PIM Exploration/PIM Integration"
+        },
+        {
+          "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/Gold-Database",
+          "text": "non-published-notes/Knowledge/PIM Exploration/Gold Database"
+        },
+        {
+          "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/Compilance",
+          "text": "non-published-notes/Knowledge/PIM Exploration/Compilance"
+        }
+      ],
+      "/private/Knowledge/Researcher/Bit": [
+        {
+          "source": "/private/Knowledge/Researcher/Bit",
+          "target": "/non-published-notes/Knowledge/Researcher/Bit/Chunking-algorithm",
+          "text": "non-published-notes/Knowledge/Researcher/Bit/Chunking algorithm"
+        }
+      ],
+      "/private/Knowledge/Researcher/Cluster-Embedding": [
+        {
+          "source": "/private/Knowledge/Researcher/Cluster-Embedding",
+          "target": "/non-published-notes/Knowledge/Researcher/Databases/Search-Results-Database",
+          "text": "non-published-notes/Knowledge/Researcher/Databases/Search Results Database"
+        }
+      ],
+      "/private/Knowledge/Researcher/Databases/Ingestion-Tracker": [
+        {
+          "source": "/private/Knowledge/Researcher/Databases/Ingestion-Tracker",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "non-published-notes/Ideas/AI/Researcher#Ingestion"
+        }
+      ],
+      "/private/Knowledge/Researcher/Databases/Search-Query": [
+        {
+          "source": "/private/Knowledge/Researcher/Databases/Search-Query",
+          "target": "/non-published-notes/Knowledge/Researcher/Databases/Ingestion-Tracker",
+          "text": "non-published-notes/Knowledge/Researcher/Databases/Ingestion Tracker"
+        }
+      ],
+      "/private/Knowledge/Researcher/Databases/Search-Results-Database": [
+        {
+          "source": "/private/Knowledge/Researcher/Databases/Search-Results-Database",
+          "target": "/non-published-notes/Knowledge/Researcher/Databases/Search-Query",
+          "text": "non-published-notes/Knowledge/Researcher/Databases/Search Query"
+        }
+      ],
+      "/private/Knowledge/Researcher/Deep-Crawl": [
+        {
+          "source": "/private/Knowledge/Researcher/Deep-Crawl",
+          "target": "/non-published-notes/Knowledge/Researcher/Cluster-Embedding",
+          "text": "non-published-notes/Knowledge/Researcher/Cluster Embedding"
+        },
+        {
+          "source": "/private/Knowledge/Researcher/Deep-Crawl",
+          "target": "/non-published-notes/Knowledge/Researcher/Previous-Knowledge-Base-Clustering",
+          "text": "non-published-notes/Knowledge/Researcher/Previous Knowledge Base Clustering"
+        },
+        {
+          "source": "/private/Knowledge/Researcher/Deep-Crawl",
+          "target": "/non-published-notes/Knowledge/Researcher/Learner",
+          "text": "non-published-notes/Knowledge/Researcher/Learner"
+        }
+      ],
+      "/private/Knowledge/Researcher/Embedding-of-the-Bit": [
+        {
+          "source": "/private/Knowledge/Researcher/Embedding-of-the-Bit",
+          "target": "/non-published-notes/Knowledge/Researcher/Bit",
+          "text": "non-published-notes/Knowledge/Researcher/Bit"
+        }
+      ],
+      "/private/Knowledge/Researcher/Learner": [
+        {
+          "source": "/private/Knowledge/Researcher/Learner",
+          "target": "/non-published-notes/Knowledge/Researcher/Embedding-of-the-original-query",
+          "text": "non-published-notes/Knowledge/Researcher/Embedding of the original query"
+        },
+        {
+          "source": "/private/Knowledge/Researcher/Learner",
+          "target": "/non-published-notes/Knowledge/Researcher/Embedding-of-the-Bit",
+          "text": "non-published-notes/Knowledge/Researcher/Embedding of the Bit"
+        }
+      ],
+      "/private/Knowledge/Researcher/Notification-which-requires-action": [
+        {
+          "source": "/private/Knowledge/Researcher/Notification-which-requires-action",
+          "target": "/non-published-notes/Knowledge/Research-1/Diagrams/Notification-Which-Requires-Action",
+          "text": "non-published-notes/Knowledge/Research 1/Diagrams/Notification Which Requires Action"
+        }
+      ],
+      "/private/Knowledge/Researcher/Search-Term-Based-Research": [
+        {
+          "source": "/private/Knowledge/Researcher/Search-Term-Based-Research",
+          "target": "/non-published-notes/Knowledge/Researcher/Deep-Crawl",
+          "text": "non-published-notes/Knowledge/Researcher/Deep Crawl"
+        },
+        {
+          "source": "/private/Knowledge/Researcher/Search-Term-Based-Research",
+          "target": "/non-published-notes/Knowledge/Researcher/knowledge_base",
+          "text": "non-published-notes/Knowledge/Researcher/knowledge_base"
+        }
+      ],
+      "/private/Knowledge/Researcher/Search-Term-Ingestion": [
+        {
+          "source": "/private/Knowledge/Researcher/Search-Term-Ingestion",
+          "target": "/non-published-notes/Knowledge/Researcher/Deep-Crawl",
+          "text": "non-published-notes/Knowledge/Researcher/Deep Crawl"
+        }
+      ],
+      "/private/Obsidian/Button-that-creates-new-note": [
+        {
+          "source": "/private/Obsidian/Button-that-creates-new-note",
+          "target": "/non-published-notes/2023-05-26-testing-123",
+          "text": "non-published-notes/2023-05-26-testing 123"
+        },
+        {
+          "source": "/private/Obsidian/Button-that-creates-new-note",
+          "target": "/non-published-notes/2023-05-26-how-are-you",
+          "text": "non-published-notes/2023-05-26-how are you"
+        },
+        {
+          "source": "/private/Obsidian/Button-that-creates-new-note",
+          "target": "/non-published-notes/2023-05-26-testing",
+          "text": "non-published-notes/2023-05-26-testing"
+        }
+      ],
+      "/private/Templates/day-view-template": [
+        {
+          "source": "/private/Templates/day-view-template",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Templates/day-view-template",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Templates/day-view-template",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/private/Tracker/Introductory-Course": [
+        {
+          "source": "/private/Tracker/Introductory-Course",
+          "target": "/non-published-notes/Goal/No-Procastination",
+          "text": "No Procastination"
+        }
+      ],
+      "/private/Tracker/Mindful-CBT": [
+        {
+          "source": "/private/Tracker/Mindful-CBT",
+          "target": "/non-published-notes/Tracker/Introductory-Course",
+          "text": "Introductory Course"
+        },
+        {
+          "source": "/private/Tracker/Mindful-CBT",
+          "target": "/non-published-notes/Goal/No-Procastination",
+          "text": "No Procastination"
+        }
+      ],
+      "/private/Tracker/Researcher": [
+        {
+          "source": "/private/Tracker/Researcher",
+          "target": "/non-published-notes/Goal/Launch-first-Side-Hustle",
+          "text": "Launch first Side Hustle"
+        },
+        {
+          "source": "/private/Tracker/Researcher",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "non-published-notes/Ideas/AI/Researcher"
+        }
+      ],
+      "/private/Tracker/Watch-Conversation-of-Ali-Abdaal-and-Tim-Pychyl": [
+        {
+          "source": "/private/Tracker/Watch-Conversation-of-Ali-Abdaal-and-Tim-Pychyl",
+          "target": "/non-published-notes/Goal/No-Procastination",
+          "text": "No Procastination"
+        }
+      ],
+      "/public/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95": [
+        {
+          "source": "/public/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
           "target": "/notes/config",
           "text": "config"
         }
       ],
-      "/something-else/India": [
+      "/public/India": [
         {
-          "source": "/something-else/India",
+          "source": "/public/India",
           "target": "/notes/Asia",
           "text": "Asia"
         }
       ],
-      "/something-else/Music": [
+      "/public/Music": [
         {
-          "source": "/something-else/Music",
+          "source": "/public/Music",
           "target": "/something-else/Music",
           "text": "Punjabi"
         },
         {
-          "source": "/something-else/Music",
+          "source": "/public/Music",
           "target": "/",
           "text": "#EDM"
         },
         {
-          "source": "/something-else/Music",
+          "source": "/public/Music",
           "target": "/something-else/Who-dis",
           "text": "Who dis?"
         }
       ],
-      "/something-else/This-is-just-a-mere-test.": [
+      "/public/This-is-just-a-mere-test.": [
         {
-          "source": "/something-else/This-is-just-a-mere-test.",
+          "source": "/public/This-is-just-a-mere-test.",
           "target": "/notes/What-if-I-add-a-link",
           "text": "notes/What if I add a link"
         },
         {
-          "source": "/something-else/This-is-just-a-mere-test.",
+          "source": "/public/This-is-just-a-mere-test.",
           "target": "/notes/What",
           "text": "Notes"
         }
       ],
-      "/something-else/What-if-I-add-a-link": [
+      "/public/What-if-I-add-a-link": [
         {
-          "source": "/something-else/What-if-I-add-a-link",
+          "source": "/public/What-if-I-add-a-link",
           "target": "/notes/What-if-I-add-a-link",
           "text": "notes/What if I add a link"
         }
       ],
-      "/something-else/config": [
+      "/public/config": [
         {
-          "source": "/something-else/config",
+          "source": "/public/config",
           "target": "/notes/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         },
         {
-          "source": "/something-else/config",
+          "source": "/public/config",
           "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
           "text": "CJK + Latex Support (测试)"
         }
       ],
-      "/something-else/docker": [
+      "/public/docker": [
         {
-          "source": "/something-else/docker",
+          "source": "/public/docker",
           "target": "/notes/preview-changes",
           "text": "install Quartz's dependencies manually"
         }
       ],
-      "/something-else/editing": [
+      "/public/editing": [
         {
-          "source": "/something-else/editing",
+          "source": "/public/editing",
           "target": "/notes/obsidian",
           "text": "How to setup your Obsidian Vault to work with Quartz"
         },
         {
-          "source": "/something-else/editing",
+          "source": "/public/editing",
           "target": "/notes/preview-changes",
           "text": "Preview Quartz Changes"
         },
         {
-          "source": "/something-else/editing",
+          "source": "/public/editing",
           "target": "/notes/hosting",
           "text": "Hosting Quartz online!"
         },
         {
-          "source": "/something-else/editing",
+          "source": "/public/editing",
           "target": "/notes/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
       ],
-      "/something-else/hosting": [
+      "/public/hosting": [
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/custom-Domain",
           "text": "Learn how to set it up with Quartz"
         },
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/ignore-notes",
           "text": "Excluding pages from being published"
         },
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/docker",
           "text": "Docker"
         },
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/config",
           "text": "Customizing Quartz"
         },
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
       ],
-      "/something-else/obsidian": [
+      "/public/obsidian": [
         {
-          "source": "/something-else/obsidian",
+          "source": "/public/obsidian",
           "target": "/notes/setup",
           "text": "setup"
         },
         {
-          "source": "/something-else/obsidian",
+          "source": "/public/obsidian",
           "target": "/notes/preview-changes",
           "text": "Preview Quartz Changes"
         }
       ],
-      "/something-else/preview-changes": [
+      "/public/preview-changes": [
         {
-          "source": "/something-else/preview-changes",
+          "source": "/public/preview-changes",
           "target": "/notes/troubleshooting",
           "text": "the troubleshooting page"
         },
         {
-          "source": "/something-else/preview-changes",
+          "source": "/public/preview-changes",
           "target": "/notes/hosting",
           "text": "Hosting Quartz online!"
         }
       ],
-      "/something-else/setup": [
+      "/public/setup": [
         {
-          "source": "/something-else/setup",
+          "source": "/public/setup",
           "target": "/notes/editing",
           "text": "Editing Notes in Quartz"
         },
         {
-          "source": "/something-else/setup",
+          "source": "/public/setup",
           "target": "/notes/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
       ],
-      "/something-else/troubleshooting": [
+      "/public/troubleshooting": [
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
           "text": "CJK + Latex Support (测试)"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/hosting",
           "text": "hosting"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/ignore-notes",
           "text": "excluding pages from being published"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/hosting",
           "text": "hosting"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/obsidian",
           "text": "Obsidian"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/editing",
           "text": "the 'how to edit' guide"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/hosting",
           "text": "the hosting guide"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/config",
           "text": "customization guide"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/editing",
           "text": "local editing"
         }
@@ -218,195 +1149,1204 @@
     "backlinks": {
       "/": [
         {
-          "source": "/something-else/Music",
+          "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "target": "/",
+          "text": "#9th May"
+        },
+        {
+          "source": "/private/Knowledge/How-to-win-friends-and-influence-people",
+          "target": "/",
+          "text": ""
+        },
+        {
+          "source": "/public/Music",
           "target": "/",
           "text": "#EDM"
         }
       ],
+      "/Humans-of-Rhitiks-Life/": [
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-15",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-15",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-20",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-20",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-22",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-22",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-24",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-24",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-25",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-25",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-27",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Day-View/2023-05-27",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Templates/day-view-template",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        },
+        {
+          "source": "/private/Templates/day-view-template",
+          "target": "/Humans-of-Rhitiks-Life/",
+          "text": "Humans of Rhitik's Life/"
+        }
+      ],
+      "/Humans-of-Rhitiks-Life/Maria": [
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/Humans-of-Rhitiks-Life/Maria",
+          "text": "Humans of Rhitik's Life/Maria"
+        }
+      ],
+      "/Humans-of-Rhitiks-Life/Michal": [
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/Humans-of-Rhitiks-Life/Michal",
+          "text": "Humans of Rhitik's Life/Michal"
+        }
+      ],
+      "/Humans-of-Rhitiks-Life/Ritesh-Dave": [
+        {
+          "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+          "target": "/Humans-of-Rhitiks-Life/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        }
+      ],
+      "/In-Progress": [
+        {
+          "source": "/private/Ideas/Tools/Conversation-Copliot",
+          "target": "/In-Progress",
+          "text": "In Progress"
+        }
+      ],
+      "/Knowledge-builder": [
+        {
+          "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+          "target": "/Knowledge-builder",
+          "text": "Knowledge builder"
+        }
+      ],
+      "/Learning/NLP": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/Learning/NLP",
+          "text": "Learning/NLP"
+        }
+      ],
+      "/PIM-Subscriber": [
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/PIM-Subscriber",
+          "text": "PIM Subscriber"
+        }
+      ],
+      "/Prashant-Chaurasia": [
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/Prashant-Chaurasia",
+          "text": "Prashant Chaurasia"
+        }
+      ],
+      "/Researcher/Manual-Text-Ingestion": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/Researcher/Manual-Text-Ingestion",
+          "text": "Researcher/Manual Text Ingestion"
+        }
+      ],
+      "/Researcher/URL-Ingestion": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/Researcher/URL-Ingestion",
+          "text": "Researcher/URL Ingestion"
+        }
+      ],
+      "/non-published-notes/2023-05-26-how-are-you": [
+        {
+          "source": "/private/Obsidian/Button-that-creates-new-note",
+          "target": "/non-published-notes/2023-05-26-how-are-you",
+          "text": "non-published-notes/2023-05-26-how are you"
+        }
+      ],
+      "/non-published-notes/2023-05-26-testing": [
+        {
+          "source": "/private/Obsidian/Button-that-creates-new-note",
+          "target": "/non-published-notes/2023-05-26-testing",
+          "text": "non-published-notes/2023-05-26-testing"
+        }
+      ],
+      "/non-published-notes/2023-05-26-testing-123": [
+        {
+          "source": "/private/Obsidian/Button-that-creates-new-note",
+          "target": "/non-published-notes/2023-05-26-testing-123",
+          "text": "non-published-notes/2023-05-26-testing 123"
+        }
+      ],
+      "/non-published-notes/Content/Videos/Scorecard-Health": [
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/non-published-notes/Content/Videos/Scorecard-Health",
+          "text": "non-published-notes/Content/Videos/Scorecard Health"
+        }
+      ],
+      "/non-published-notes/Conversations/Marcello-2023-05-19": [
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Colleague/Marcello",
+          "target": "/non-published-notes/Conversations/Marcello-2023-05-19",
+          "text": "Marcello-2023-05-19"
+        }
+      ],
+      "/non-published-notes/Conversations/Ritesh-Dave": [
+        {
+          "source": "/private/Day-View/2023-05-06",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "non-published-notes/Conversations/Ritesh Dave"
+        },
+        {
+          "source": "/private/Day-View/2023-05-06",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "non-published-notes/Conversations/Ritesh Dave"
+        },
+        {
+          "source": "/private/Day-View/2023-05-06",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "non-published-notes/Conversations/Ritesh Dave"
+        },
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        },
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        }
+      ],
+      "/non-published-notes/Conversations/Ritesh-Dave-1": [
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "target": "/non-published-notes/Conversations/Ritesh-Dave-1",
+          "text": "Ritesh Dave-1"
+        }
+      ],
+      "/non-published-notes/Conversations/Sheetal-Tiwari-2023-05-20": [
+        {
+          "source": "/private/Humans-of-Rhitiks-Life/Friend/Sheetal-Tiwari",
+          "target": "/non-published-notes/Conversations/Sheetal-Tiwari-2023-05-20",
+          "text": "Sheetal Tiwari - 2023-05-20"
+        }
+      ],
+      "/non-published-notes/Entites/Tools/Slack": [
+        {
+          "source": "/private/Ideas/Tools/Conversation-Copliot",
+          "target": "/non-published-notes/Entites/Tools/Slack",
+          "text": "non-published-notes/Entites/Tools/Slack"
+        }
+      ],
+      "/non-published-notes/Goal/Launch-first-Side-Hustle": [
+        {
+          "source": "/private/Tracker/Researcher",
+          "target": "/non-published-notes/Goal/Launch-first-Side-Hustle",
+          "text": "Launch first Side Hustle"
+        }
+      ],
+      "/non-published-notes/Goal/No-Procastination": [
+        {
+          "source": "/private/Tracker/Introductory-Course",
+          "target": "/non-published-notes/Goal/No-Procastination",
+          "text": "No Procastination"
+        },
+        {
+          "source": "/private/Tracker/Mindful-CBT",
+          "target": "/non-published-notes/Goal/No-Procastination",
+          "text": "No Procastination"
+        },
+        {
+          "source": "/private/Tracker/Watch-Conversation-of-Ali-Abdaal-and-Tim-Pychyl",
+          "target": "/non-published-notes/Goal/No-Procastination",
+          "text": "No Procastination"
+        }
+      ],
+      "/non-published-notes/Goal/_Goals-Database": [
+        {
+          "source": "/private/Knowledge/Obsidian/Obsidian-Alignment-Tracker",
+          "target": "/non-published-notes/Goal/_Goals-Database",
+          "text": "non-published-notes/Goal/_Goals Database"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Ashutosh-Kumar": [
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Ashutosh-Kumar",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Ashutosh Kumar"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello": [
+        {
+          "source": "/private/Conversations/Marcello-2023-05-19",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+          "text": "Marcello"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Marcello"
+        },
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Marcello"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj": [
+        {
+          "source": "/private/Ideas/AI/Human-Conversation-Tracker",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+        },
+        {
+          "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+          "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Family-Friend/Jainendra-Trivedi": [
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family-Friend/Jainendra-Trivedi",
+          "text": "non-published-notes/Humans of Rhitik's Life/Family Friend/Jainendra Trivedi"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Family-Friend/Vimal-Bhatt": [
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family-Friend/Vimal-Bhatt",
+          "text": "non-published-notes/Humans of Rhitik's Life/Family Friend/Vimal Bhatt"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave": [
+        {
+          "source": "/private/Conversations/Ritesh-Dave-1",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        },
+        {
+          "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        },
+        {
+          "source": "/private/Conversations/Ritesh-Dave",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+          "text": "Ritesh Dave"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Family/Sudhir-Kapoor": [
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Sudhir-Kapoor",
+          "text": "non-published-notes/Humans of Rhitik's Life/Family/Sudhir Kapoor"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Friend/Sheetal-Tiwari": [
+        {
+          "source": "/private/Conversations/Sheetal-Tiwari-2023-05-20",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Friend/Sheetal-Tiwari",
+          "text": "Sheetal Tiwari"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Harsh-Vardhan": [
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Harsh-Vardhan",
+          "text": "non-published-notes/Humans of Rhitik's Life/Harsh Vardhan"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Sinan-Ozdemir": [
+        {
+          "source": "/private/Courses/In-Progress/Introduction-to-Transformer-Models-for-NLP",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Sinan-Ozdemir",
+          "text": "Sinan Ozdemir"
+        }
+      ],
+      "/non-published-notes/Humans-of-Rhitiks-Life/Unknown/Andy-Puddicombe": [
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Humans-of-Rhitiks-Life/Unknown/Andy-Puddicombe",
+          "text": "non-published-notes/Humans of Rhitik's Life/Unknown/Andy Puddicombe"
+        }
+      ],
+      "/non-published-notes/Ideas/AI/Researcher": [
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "non-published-notes/Ideas/AI/Researcher"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "Researcher"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "Researcher"
+        },
+        {
+          "source": "/private/Knowledge/AI/Hugging-Face",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "Researcher"
+        },
+        {
+          "source": "/private/Knowledge/Researcher/Databases/Ingestion-Tracker",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "non-published-notes/Ideas/AI/Researcher#Ingestion"
+        },
+        {
+          "source": "/private/Tracker/Researcher",
+          "target": "/non-published-notes/Ideas/AI/Researcher",
+          "text": "non-published-notes/Ideas/AI/Researcher"
+        }
+      ],
+      "/non-published-notes/Ideas/Tools/Conversation-Copliot": [
+        {
+          "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+          "target": "/non-published-notes/Ideas/Tools/Conversation-Copliot",
+          "text": "non-published-notes/Ideas/Tools/Conversation Copliot"
+        }
+      ],
+      "/non-published-notes/Ideas/Tools/Slack-Reply-Recommender": [
+        {
+          "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+          "target": "/non-published-notes/Ideas/Tools/Slack-Reply-Recommender",
+          "text": "non-published-notes/Ideas/Tools/Slack Reply Recommender"
+        }
+      ],
+      "/non-published-notes/Knowledge/AI/Acitivity-Diagram": [
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/non-published-notes/Knowledge/AI/Acitivity-Diagram",
+          "text": "non-published-notes/Knowledge/AI/Acitivity Diagram"
+        },
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/non-published-notes/Knowledge/AI/Acitivity-Diagram",
+          "text": "non-published-notes/Knowledge/AI/Acitivity Diagram"
+        }
+      ],
+      "/non-published-notes/Knowledge/AI/Hugging-Face": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/AI/Hugging-Face",
+          "text": "non-published-notes/Knowledge/AI/Hugging Face"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/AI/Hugging-Face",
+          "text": "Hugging Face"
+        }
+      ],
+      "/non-published-notes/Knowledge/Attention": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+          "target": "/non-published-notes/Knowledge/Attention",
+          "text": "non-published-notes/Knowledge/Attention"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+          "target": "/non-published-notes/Knowledge/Attention",
+          "text": "non-published-notes/Knowledge/Attention"
+        }
+      ],
+      "/non-published-notes/Knowledge/Auto-Encoding": [
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Auto-Encoding",
+          "text": "non-published-notes/Knowledge/Auto Encoding"
+        },
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Auto-Encoding",
+          "text": "non-published-notes/Knowledge/Auto Encoding"
+        }
+      ],
+      "/non-published-notes/Knowledge/Auto-Regressive": [
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Auto-Regressive",
+          "text": "non-published-notes/Knowledge/Auto Regressive"
+        },
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Auto-Regressive",
+          "text": "non-published-notes/Knowledge/Auto Regressive"
+        }
+      ],
+      "/non-published-notes/Knowledge/Bags-of-words-Model": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/Bags-of-words-Model",
+          "text": "non-published-notes/Knowledge/Bags of words Model"
+        }
+      ],
+      "/non-published-notes/Knowledge/Cross-Attention": [
+        {
+          "source": "/private/Knowledge/1.3",
+          "target": "/non-published-notes/Knowledge/Cross-Attention",
+          "text": "non-published-notes/Knowledge/Cross Attention"
+        }
+      ],
+      "/non-published-notes/Knowledge/Data-Processing-Repos": [
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+          "text": "non-published-notes/Knowledge/Data Processing Repos"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+          "text": "non-published-notes/Knowledge/Data Processing Repos"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+          "text": "non-published-notes/Knowledge/Data Processing Repos"
+        }
+      ],
+      "/non-published-notes/Knowledge/Decoder": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/Decoder",
+          "text": "non-published-notes/Knowledge/Decoder"
+        }
+      ],
+      "/non-published-notes/Knowledge/Document-Analysis": [
+        {
+          "source": "/private/Day-View/2023-05-11",
+          "target": "/non-published-notes/Knowledge/Document-Analysis",
+          "text": "non-published-notes/Knowledge/Document Analysis"
+        }
+      ],
+      "/non-published-notes/Knowledge/Encoder": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/Encoder",
+          "text": "non-published-notes/Knowledge/Encoder"
+        }
+      ],
+      "/non-published-notes/Knowledge/Factual-Entity/HR": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Factual-Entity/HR",
+          "text": "non-published-notes/Knowledge/Factual Entity/HR"
+        }
+      ],
+      "/non-published-notes/Knowledge/Factual-Entity/Individuals": [
+        {
+          "source": "/private/Ideas/Tools/Conversation-Copliot",
+          "target": "/non-published-notes/Knowledge/Factual-Entity/Individuals",
+          "text": "non-published-notes/Knowledge/Factual Entity/Individuals"
+        }
+      ],
+      "/non-published-notes/Knowledge/Factual-Entity/Team-Managers": [
+        {
+          "source": "/private/Ideas/Tools/Conversation-Copliot",
+          "target": "/non-published-notes/Knowledge/Factual-Entity/Team-Managers",
+          "text": "non-published-notes/Knowledge/Factual Entity/Team Managers"
+        }
+      ],
+      "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people": [
+        {
+          "source": "/private/Day-View/2023-05-13",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-15",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-19",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-20",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-22",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-23",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-24",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-25",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-26",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Day-View/2023-05-27",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        },
+        {
+          "source": "/private/Templates/day-view-template",
+          "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+          "text": "non-published-notes/Knowledge/How to win friends and influence people"
+        }
+      ],
+      "/non-published-notes/Knowledge/Image-Service": [
+        {
+          "source": "/private/Day-View/2023-05-11",
+          "target": "/non-published-notes/Knowledge/Image-Service",
+          "text": "non-published-notes/Knowledge/Image Service"
+        }
+      ],
+      "/non-published-notes/Knowledge/Imperio": [
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Imperio",
+          "text": "non-published-notes/Knowledge/Imperio"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/Imperio",
+          "text": "non-published-notes/Knowledge/Imperio"
+        }
+      ],
+      "/non-published-notes/Knowledge/Masked-Multi-Headed-Attention": [
+        {
+          "source": "/private/Knowledge/1.3",
+          "target": "/non-published-notes/Knowledge/Masked-Multi-Headed-Attention",
+          "text": "non-published-notes/Knowledge/Masked Multi Headed Attention"
+        }
+      ],
+      "/non-published-notes/Knowledge/Multi-Head-Attention": [
+        {
+          "source": "/private/Knowledge/1.3",
+          "target": "/non-published-notes/Knowledge/Multi-Head-Attention",
+          "text": "non-published-notes/Knowledge/Multi Head Attention"
+        }
+      ],
+      "/non-published-notes/Knowledge/PIM-Exploration/Compilance": [
+        {
+          "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/Compilance",
+          "text": "non-published-notes/Knowledge/PIM Exploration/Compilance"
+        }
+      ],
+      "/non-published-notes/Knowledge/PIM-Exploration/Data-Processing-Infra": [
+        {
+          "source": "/private/Day-View/2023-05-15",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "text": "non-published-notes/Knowledge/PIM Exploration/Data Processing Infra"
+        }
+      ],
+      "/non-published-notes/Knowledge/PIM-Exploration/Gold-Database": [
+        {
+          "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/Gold-Database",
+          "text": "non-published-notes/Knowledge/PIM Exploration/Gold Database"
+        }
+      ],
+      "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler": [
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+          "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+        },
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+          "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+        },
+        {
+          "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+          "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+        }
+      ],
+      "/non-published-notes/Knowledge/PIM-Exploration/PIM-Integration": [
+        {
+          "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+          "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Integration",
+          "text": "non-published-notes/Knowledge/PIM Exploration/PIM Integration"
+        }
+      ],
+      "/non-published-notes/Knowledge/PIM-Gateway": [
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/PIM-Gateway",
+          "text": "non-published-notes/Knowledge/PIM Gateway"
+        }
+      ],
+      "/non-published-notes/Knowledge/PIM-PDB-API": [
+        {
+          "source": "/private/Day-View/2023-05-10",
+          "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+          "text": "non-published-notes/Knowledge/PIM PDB API"
+        },
+        {
+          "source": "/private/Day-View/2023-05-11",
+          "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+          "text": "non-published-notes/Knowledge/PIM PDB API"
+        },
+        {
+          "source": "/private/Day-View/2023-05-12",
+          "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+          "text": "non-published-notes/Knowledge/PIM PDB API"
+        }
+      ],
+      "/non-published-notes/Knowledge/RNN": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/RNN",
+          "text": "non-published-notes/Knowledge/RNN"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/RNN",
+          "text": "non-published-notes/Knowledge/RNN"
+        }
+      ],
+      "/non-published-notes/Knowledge/Research-1/Deplot": [
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/non-published-notes/Knowledge/Research-1/Deplot",
+          "text": "non-published-notes/Knowledge/Research 1/Deplot"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Research-1/Deplot",
+          "text": "non-published-notes/Knowledge/Research 1/Deplot"
+        }
+      ],
+      "/non-published-notes/Knowledge/Research-1/Diagrams/Notification-Which-Requires-Action": [
+        {
+          "source": "/private/Knowledge/Researcher/Notification-which-requires-action",
+          "target": "/non-published-notes/Knowledge/Research-1/Diagrams/Notification-Which-Requires-Action",
+          "text": "non-published-notes/Knowledge/Research 1/Diagrams/Notification Which Requires Action"
+        }
+      ],
+      "/non-published-notes/Knowledge/Research-1/Pix2struct": [
+        {
+          "source": "/private/Day-View/2023-05-21",
+          "target": "/non-published-notes/Knowledge/Research-1/Pix2struct",
+          "text": "non-published-notes/Knowledge/Research 1/Pix2struct"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Research-1/Pix2struct",
+          "text": "non-published-notes/Knowledge/Research 1/Pix2struct"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Activity-Diagram": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Activity-Diagram",
+          "text": "non-published-notes/Knowledge/Researcher/Activity Diagram"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Bit": [
+        {
+          "source": "/private/Knowledge/Researcher/Embedding-of-the-Bit",
+          "target": "/non-published-notes/Knowledge/Researcher/Bit",
+          "text": "non-published-notes/Knowledge/Researcher/Bit"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Bit/Chunking-algorithm": [
+        {
+          "source": "/private/Knowledge/Researcher/Bit",
+          "target": "/non-published-notes/Knowledge/Researcher/Bit/Chunking-algorithm",
+          "text": "non-published-notes/Knowledge/Researcher/Bit/Chunking algorithm"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Cluster-Embedding": [
+        {
+          "source": "/private/Knowledge/Researcher/Deep-Crawl",
+          "target": "/non-published-notes/Knowledge/Researcher/Cluster-Embedding",
+          "text": "non-published-notes/Knowledge/Researcher/Cluster Embedding"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Databases/Ingestion-Tracker": [
+        {
+          "source": "/private/Knowledge/Researcher/Databases/Search-Query",
+          "target": "/non-published-notes/Knowledge/Researcher/Databases/Ingestion-Tracker",
+          "text": "non-published-notes/Knowledge/Researcher/Databases/Ingestion Tracker"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Databases/Search-Query": [
+        {
+          "source": "/private/Knowledge/Researcher/Databases/Search-Results-Database",
+          "target": "/non-published-notes/Knowledge/Researcher/Databases/Search-Query",
+          "text": "non-published-notes/Knowledge/Researcher/Databases/Search Query"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Databases/Search-Results-Database": [
+        {
+          "source": "/private/Knowledge/Researcher/Cluster-Embedding",
+          "target": "/non-published-notes/Knowledge/Researcher/Databases/Search-Results-Database",
+          "text": "non-published-notes/Knowledge/Researcher/Databases/Search Results Database"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Deep-Crawl": [
+        {
+          "source": "/private/Knowledge/Researcher/Search-Term-Based-Research",
+          "target": "/non-published-notes/Knowledge/Researcher/Deep-Crawl",
+          "text": "non-published-notes/Knowledge/Researcher/Deep Crawl"
+        },
+        {
+          "source": "/private/Knowledge/Researcher/Search-Term-Ingestion",
+          "target": "/non-published-notes/Knowledge/Researcher/Deep-Crawl",
+          "text": "non-published-notes/Knowledge/Researcher/Deep Crawl"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Embedding-of-the-Bit": [
+        {
+          "source": "/private/Knowledge/Researcher/Learner",
+          "target": "/non-published-notes/Knowledge/Researcher/Embedding-of-the-Bit",
+          "text": "non-published-notes/Knowledge/Researcher/Embedding of the Bit"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Embedding-of-the-original-query": [
+        {
+          "source": "/private/Knowledge/Researcher/Learner",
+          "target": "/non-published-notes/Knowledge/Researcher/Embedding-of-the-original-query",
+          "text": "non-published-notes/Knowledge/Researcher/Embedding of the original query"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Implementations/Embedding-Based-Implementation": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Implementations/Embedding-Based-Implementation",
+          "text": "non-published-notes/Knowledge/Researcher/Implementations/Embedding Based Implementation"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Learner": [
+        {
+          "source": "/private/Knowledge/Researcher/Deep-Crawl",
+          "target": "/non-published-notes/Knowledge/Researcher/Learner",
+          "text": "non-published-notes/Knowledge/Researcher/Learner"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Notification-which-requires-action": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-action",
+          "text": "non-published-notes/Knowledge/Researcher/Notification which requires action"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Notification-which-requires-no-human-intervention": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-no-human-intervention",
+          "text": "non-published-notes/Knowledge/Researcher/Notification which requires no human intervention"
+        },
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-no-human-intervention",
+          "text": "non-published-notes/Knowledge/Researcher/Notification which requires no human intervention"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/PDF-Ingestion": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/PDF-Ingestion",
+          "text": "non-published-notes/Knowledge/Researcher/PDF Ingestion"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Previous-Knowledge-Base-Clustering": [
+        {
+          "source": "/private/Knowledge/Researcher/Deep-Crawl",
+          "target": "/non-published-notes/Knowledge/Researcher/Previous-Knowledge-Base-Clustering",
+          "text": "non-published-notes/Knowledge/Researcher/Previous Knowledge Base Clustering"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/Search-Term-Ingestion": [
+        {
+          "source": "/private/Ideas/AI/Researcher",
+          "target": "/non-published-notes/Knowledge/Researcher/Search-Term-Ingestion",
+          "text": "non-published-notes/Knowledge/Researcher/Search Term Ingestion"
+        }
+      ],
+      "/non-published-notes/Knowledge/Researcher/knowledge_base": [
+        {
+          "source": "/private/Knowledge/Researcher/Search-Term-Based-Research",
+          "target": "/non-published-notes/Knowledge/Researcher/knowledge_base",
+          "text": "non-published-notes/Knowledge/Researcher/knowledge_base"
+        }
+      ],
+      "/non-published-notes/Knowledge/Schema-Config": [
+        {
+          "source": "/private/Day-View/2023-05-11",
+          "target": "/non-published-notes/Knowledge/Schema-Config",
+          "text": "non-published-notes/Knowledge/Schema Config"
+        }
+      ],
+      "/non-published-notes/Knowledge/Self-Attention": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+          "target": "/non-published-notes/Knowledge/Self-Attention",
+          "text": "non-published-notes/Knowledge/Self Attention"
+        }
+      ],
+      "/non-published-notes/Knowledge/Tool/CRM": [
+        {
+          "source": "/private/Ideas/AI/Human-Conversation-Tracker",
+          "target": "/non-published-notes/Knowledge/Tool/CRM",
+          "text": "CRM"
+        }
+      ],
+      "/non-published-notes/Knowledge/Tool/Free-Audio-Recorders": [
+        {
+          "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+          "target": "/non-published-notes/Knowledge/Tool/Free-Audio-Recorders",
+          "text": "Free Audio Recorders"
+        }
+      ],
+      "/non-published-notes/Knowledge/Transformers": [
+        {
+          "source": "/private/Knowledge/1.4",
+          "target": "/non-published-notes/Knowledge/Transformers",
+          "text": "non-published-notes/Knowledge/Transformers"
+        },
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+          "target": "/non-published-notes/Knowledge/Transformers",
+          "text": "non-published-notes/Knowledge/Transformers"
+        }
+      ],
+      "/non-published-notes/Knowledge/scaled-dot-product-attention": [
+        {
+          "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+          "target": "/non-published-notes/Knowledge/scaled-dot-product-attention",
+          "text": "non-published-notes/Knowledge/scaled dot product attention"
+        }
+      ],
+      "/non-published-notes/Tracker/Introductory-Course": [
+        {
+          "source": "/private/Tracker/Mindful-CBT",
+          "target": "/non-published-notes/Tracker/Introductory-Course",
+          "text": "Introductory Course"
+        }
+      ],
       "/notes/Asia": [
         {
-          "source": "/something-else/India",
+          "source": "/public/India",
           "target": "/notes/Asia",
           "text": "Asia"
         }
       ],
       "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95": [
         {
-          "source": "/something-else/config",
+          "source": "/public/config",
           "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
           "text": "CJK + Latex Support (测试)"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
           "text": "CJK + Latex Support (测试)"
         }
       ],
       "/notes/What": [
         {
-          "source": "/something-else/This-is-just-a-mere-test.",
+          "source": "/public/This-is-just-a-mere-test.",
           "target": "/notes/What",
           "text": "Notes"
         }
       ],
       "/notes/What-if-I-add-a-link": [
         {
-          "source": "/something-else/This-is-just-a-mere-test.",
+          "source": "/public/This-is-just-a-mere-test.",
           "target": "/notes/What-if-I-add-a-link",
           "text": "notes/What if I add a link"
         },
         {
-          "source": "/something-else/What-if-I-add-a-link",
+          "source": "/public/What-if-I-add-a-link",
           "target": "/notes/What-if-I-add-a-link",
           "text": "notes/What if I add a link"
         }
       ],
       "/notes/config": [
         {
-          "source": "/something-else/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "source": "/public/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
           "target": "/notes/config",
           "text": "config"
         },
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/config",
           "text": "Customizing Quartz"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/config",
           "text": "customization guide"
         }
       ],
       "/notes/custom-Domain": [
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/custom-Domain",
           "text": "Learn how to set it up with Quartz"
         }
       ],
       "/notes/docker": [
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/docker",
           "text": "Docker"
         }
       ],
       "/notes/editing": [
         {
-          "source": "/something-else/setup",
+          "source": "/public/setup",
           "target": "/notes/editing",
           "text": "Editing Notes in Quartz"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/editing",
           "text": "the 'how to edit' guide"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/editing",
           "text": "local editing"
         }
       ],
       "/notes/hosting": [
         {
-          "source": "/something-else/editing",
+          "source": "/public/editing",
           "target": "/notes/hosting",
           "text": "Hosting Quartz online!"
         },
         {
-          "source": "/something-else/preview-changes",
+          "source": "/public/preview-changes",
           "target": "/notes/hosting",
           "text": "Hosting Quartz online!"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/hosting",
           "text": "hosting"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/hosting",
           "text": "hosting"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/hosting",
           "text": "the hosting guide"
         }
       ],
       "/notes/ignore-notes": [
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/ignore-notes",
           "text": "Excluding pages from being published"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/ignore-notes",
           "text": "excluding pages from being published"
         }
       ],
       "/notes/obsidian": [
         {
-          "source": "/something-else/editing",
+          "source": "/public/editing",
           "target": "/notes/obsidian",
           "text": "How to setup your Obsidian Vault to work with Quartz"
         },
         {
-          "source": "/something-else/troubleshooting",
+          "source": "/public/troubleshooting",
           "target": "/notes/obsidian",
           "text": "Obsidian"
         }
       ],
       "/notes/preview-changes": [
         {
-          "source": "/something-else/docker",
+          "source": "/public/docker",
           "target": "/notes/preview-changes",
           "text": "install Quartz's dependencies manually"
         },
         {
-          "source": "/something-else/editing",
+          "source": "/public/editing",
           "target": "/notes/preview-changes",
           "text": "Preview Quartz Changes"
         },
         {
-          "source": "/something-else/obsidian",
+          "source": "/public/obsidian",
           "target": "/notes/preview-changes",
           "text": "Preview Quartz Changes"
         }
       ],
       "/notes/setup": [
         {
-          "source": "/something-else/obsidian",
+          "source": "/public/obsidian",
           "target": "/notes/setup",
           "text": "setup"
         }
       ],
       "/notes/troubleshooting": [
         {
-          "source": "/something-else/config",
+          "source": "/public/config",
           "target": "/notes/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         },
         {
-          "source": "/something-else/editing",
+          "source": "/public/editing",
           "target": "/notes/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         },
         {
-          "source": "/something-else/hosting",
+          "source": "/public/hosting",
           "target": "/notes/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         },
         {
-          "source": "/something-else/preview-changes",
+          "source": "/public/preview-changes",
           "target": "/notes/troubleshooting",
           "text": "the troubleshooting page"
         },
         {
-          "source": "/something-else/setup",
+          "source": "/public/setup",
           "target": "/notes/troubleshooting",
           "text": "FAQ and Troubleshooting guide"
         }
@@ -418,7 +2358,7 @@
           "text": "something-else/Music"
         },
         {
-          "source": "/something-else/Music",
+          "source": "/public/Music",
           "target": "/something-else/Music",
           "text": "Punjabi"
         }
@@ -430,7 +2370,7 @@
           "text": "something-else/Who dis?"
         },
         {
-          "source": "/something-else/Music",
+          "source": "/public/Music",
           "target": "/something-else/Who-dis",
           "text": "Who dis?"
         }
@@ -449,177 +2389,1002 @@
       "text": "something-else/Music"
     },
     {
-      "source": "/something-else/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "source": "/private/Conversations/Marcello-2023-05-19",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+      "text": "Marcello"
+    },
+    {
+      "source": "/private/Conversations/Ritesh-Dave-1",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+      "text": "Ritesh Dave"
+    },
+    {
+      "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+      "target": "/Humans-of-Rhitiks-Life/Ritesh-Dave",
+      "text": "Ritesh Dave"
+    },
+    {
+      "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+      "target": "/Knowledge-builder",
+      "text": "Knowledge builder"
+    },
+    {
+      "source": "/private/Conversations/Ritesh-Dave-2023-05-06",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+      "text": "Ritesh Dave"
+    },
+    {
+      "source": "/private/Conversations/Ritesh-Dave",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+      "text": "Ritesh Dave"
+    },
+    {
+      "source": "/private/Conversations/Sheetal-Tiwari-2023-05-20",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Friend/Sheetal-Tiwari",
+      "text": "Sheetal Tiwari"
+    },
+    {
+      "source": "/private/Courses/In-Progress/Introduction-to-Transformer-Models-for-NLP",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Sinan-Ozdemir",
+      "text": "Sinan Ozdemir"
+    },
+    {
+      "source": "/private/Day-View/2023-05-06",
+      "target": "/non-published-notes/Conversations/Ritesh-Dave",
+      "text": "non-published-notes/Conversations/Ritesh Dave"
+    },
+    {
+      "source": "/private/Day-View/2023-05-06",
+      "target": "/non-published-notes/Conversations/Ritesh-Dave",
+      "text": "non-published-notes/Conversations/Ritesh Dave"
+    },
+    {
+      "source": "/private/Day-View/2023-05-06",
+      "target": "/non-published-notes/Conversations/Ritesh-Dave",
+      "text": "non-published-notes/Conversations/Ritesh Dave"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/Imperio",
+      "text": "non-published-notes/Knowledge/Imperio"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/Prashant-Chaurasia",
+      "text": "Prashant Chaurasia"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+      "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/Imperio",
+      "text": "non-published-notes/Knowledge/Imperio"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+      "text": "non-published-notes/Knowledge/Data Processing Repos"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+      "text": "non-published-notes/Knowledge/PIM PDB API"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+      "text": "non-published-notes/Knowledge/Data Processing Repos"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/Data-Processing-Repos",
+      "text": "non-published-notes/Knowledge/Data Processing Repos"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/PIM-Gateway",
+      "text": "non-published-notes/Knowledge/PIM Gateway"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/PIM-Subscriber",
+      "text": "PIM Subscriber"
+    },
+    {
+      "source": "/private/Day-View/2023-05-10",
+      "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+      "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+    },
+    {
+      "source": "/private/Day-View/2023-05-11",
+      "target": "/non-published-notes/Knowledge/Document-Analysis",
+      "text": "non-published-notes/Knowledge/Document Analysis"
+    },
+    {
+      "source": "/private/Day-View/2023-05-11",
+      "target": "/non-published-notes/Knowledge/Image-Service",
+      "text": "non-published-notes/Knowledge/Image Service"
+    },
+    {
+      "source": "/private/Day-View/2023-05-11",
+      "target": "/non-published-notes/Knowledge/Schema-Config",
+      "text": "non-published-notes/Knowledge/Schema Config"
+    },
+    {
+      "source": "/private/Day-View/2023-05-11",
+      "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+      "text": "non-published-notes/Knowledge/PIM PDB API"
+    },
+    {
+      "source": "/private/Day-View/2023-05-12",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Unknown/Andy-Puddicombe",
+      "text": "non-published-notes/Humans of Rhitik's Life/Unknown/Andy Puddicombe"
+    },
+    {
+      "source": "/private/Day-View/2023-05-12",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Ashutosh-Kumar",
+      "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Ashutosh Kumar"
+    },
+    {
+      "source": "/private/Day-View/2023-05-12",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family-Friend/Jainendra-Trivedi",
+      "text": "non-published-notes/Humans of Rhitik's Life/Family Friend/Jainendra Trivedi"
+    },
+    {
+      "source": "/private/Day-View/2023-05-12",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family-Friend/Vimal-Bhatt",
+      "text": "non-published-notes/Humans of Rhitik's Life/Family Friend/Vimal Bhatt"
+    },
+    {
+      "source": "/private/Day-View/2023-05-12",
+      "target": "/non-published-notes/Knowledge/PIM-PDB-API",
+      "text": "non-published-notes/Knowledge/PIM PDB API"
+    },
+    {
+      "source": "/private/Day-View/2023-05-12",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Family/Sudhir-Kapoor",
+      "text": "non-published-notes/Humans of Rhitik's Life/Family/Sudhir Kapoor"
+    },
+    {
+      "source": "/private/Day-View/2023-05-13",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-13",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-13",
+      "target": "/non-published-notes/Knowledge/AI/Acitivity-Diagram",
+      "text": "non-published-notes/Knowledge/AI/Acitivity Diagram"
+    },
+    {
+      "source": "/private/Day-View/2023-05-13",
+      "target": "/non-published-notes/Knowledge/AI/Acitivity-Diagram",
+      "text": "non-published-notes/Knowledge/AI/Acitivity Diagram"
+    },
+    {
+      "source": "/private/Day-View/2023-05-13",
+      "target": "/non-published-notes/Ideas/AI/Researcher",
+      "text": "non-published-notes/Ideas/AI/Researcher"
+    },
+    {
+      "source": "/private/Day-View/2023-05-13",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-15",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-15",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-15",
+      "target": "/non-published-notes/Knowledge/PIM-Exploration/Data-Processing-Infra",
+      "text": "non-published-notes/Knowledge/PIM Exploration/Data Processing Infra"
+    },
+    {
+      "source": "/private/Day-View/2023-05-15",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-19",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-19",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+      "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Marcello"
+    },
+    {
+      "source": "/private/Day-View/2023-05-19",
+      "target": "/Humans-of-Rhitiks-Life/Maria",
+      "text": "Humans of Rhitik's Life/Maria"
+    },
+    {
+      "source": "/private/Day-View/2023-05-19",
+      "target": "/Humans-of-Rhitiks-Life/Michal",
+      "text": "Humans of Rhitik's Life/Michal"
+    },
+    {
+      "source": "/private/Day-View/2023-05-19",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-19",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-20",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-20",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-20",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-21",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-21",
+      "target": "/non-published-notes/Ideas/AI/Researcher",
+      "text": "Researcher"
+    },
+    {
+      "source": "/private/Day-View/2023-05-21",
+      "target": "/non-published-notes/Knowledge/Research-1/Pix2struct",
+      "text": "non-published-notes/Knowledge/Research 1/Pix2struct"
+    },
+    {
+      "source": "/private/Day-View/2023-05-21",
+      "target": "/non-published-notes/Knowledge/Research-1/Deplot",
+      "text": "non-published-notes/Knowledge/Research 1/Deplot"
+    },
+    {
+      "source": "/private/Day-View/2023-05-21",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-21",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-22",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-22",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-22",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-23",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-23",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Harsh-Vardhan",
+      "text": "non-published-notes/Humans of Rhitik's Life/Harsh Vardhan"
+    },
+    {
+      "source": "/private/Day-View/2023-05-23",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Marcello",
+      "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Marcello"
+    },
+    {
+      "source": "/private/Day-View/2023-05-23",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-23",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-24",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-24",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-24",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-25",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-25",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-25",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-26",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-26",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-26",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-26",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-26",
+      "target": "/non-published-notes/Content/Videos/Scorecard-Health",
+      "text": "non-published-notes/Content/Videos/Scorecard Health"
+    },
+    {
+      "source": "/private/Day-View/2023-05-26",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-27",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Day-View/2023-05-27",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Day-View/2023-05-27",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Humans-of-Rhitiks-Life/Colleague/Marcello",
+      "target": "/non-published-notes/Conversations/Marcello-2023-05-19",
+      "text": "Marcello-2023-05-19"
+    },
+    {
+      "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+      "target": "/",
+      "text": "#9th May"
+    },
+    {
+      "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+      "target": "/non-published-notes/Conversations/Ritesh-Dave",
+      "text": "Ritesh Dave"
+    },
+    {
+      "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+      "target": "/non-published-notes/Conversations/Ritesh-Dave",
+      "text": "Ritesh Dave"
+    },
+    {
+      "source": "/private/Humans-of-Rhitiks-Life/Family/Ritesh-Dave",
+      "target": "/non-published-notes/Conversations/Ritesh-Dave-1",
+      "text": "Ritesh Dave-1"
+    },
+    {
+      "source": "/private/Humans-of-Rhitiks-Life/Friend/Sheetal-Tiwari",
+      "target": "/non-published-notes/Conversations/Sheetal-Tiwari-2023-05-20",
+      "text": "Sheetal Tiwari - 2023-05-20"
+    },
+    {
+      "source": "/private/Ideas/AI/Human-Conversation-Tracker",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+      "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+    },
+    {
+      "source": "/private/Ideas/AI/Human-Conversation-Tracker",
+      "target": "/non-published-notes/Knowledge/Tool/CRM",
+      "text": "CRM"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/AI/Hugging-Face",
+      "text": "non-published-notes/Knowledge/AI/Hugging Face"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/Learning/NLP",
+      "text": "Learning/NLP"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Factual-Entity/HR",
+      "text": "non-published-notes/Knowledge/Factual Entity/HR"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+      "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/AI/Hugging-Face",
+      "text": "Hugging Face"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Researcher/Implementations/Embedding-Based-Implementation",
+      "text": "non-published-notes/Knowledge/Researcher/Implementations/Embedding Based Implementation"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Researcher/Activity-Diagram",
+      "text": "non-published-notes/Knowledge/Researcher/Activity Diagram"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Researcher/PDF-Ingestion",
+      "text": "non-published-notes/Knowledge/Researcher/PDF Ingestion"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Researcher/Search-Term-Ingestion",
+      "text": "non-published-notes/Knowledge/Researcher/Search Term Ingestion"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/Researcher/URL-Ingestion",
+      "text": "Researcher/URL Ingestion"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/Researcher/Manual-Text-Ingestion",
+      "text": "Researcher/Manual Text Ingestion"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-no-human-intervention",
+      "text": "non-published-notes/Knowledge/Researcher/Notification which requires no human intervention"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-action",
+      "text": "non-published-notes/Knowledge/Researcher/Notification which requires action"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Researcher/Notification-which-requires-no-human-intervention",
+      "text": "non-published-notes/Knowledge/Researcher/Notification which requires no human intervention"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Ideas/AI/Researcher",
+      "text": "Researcher"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Research-1/Pix2struct",
+      "text": "non-published-notes/Knowledge/Research 1/Pix2struct"
+    },
+    {
+      "source": "/private/Ideas/AI/Researcher",
+      "target": "/non-published-notes/Knowledge/Research-1/Deplot",
+      "text": "non-published-notes/Knowledge/Research 1/Deplot"
+    },
+    {
+      "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+      "target": "/non-published-notes/Knowledge/Tool/Free-Audio-Recorders",
+      "text": "Free Audio Recorders"
+    },
+    {
+      "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+      "target": "/non-published-notes/Humans-of-Rhitiks-Life/Colleague/Nikhil-Bharadwaj",
+      "text": "non-published-notes/Humans of Rhitik's Life/Colleague/Nikhil Bharadwaj"
+    },
+    {
+      "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+      "target": "/non-published-notes/Ideas/Tools/Slack-Reply-Recommender",
+      "text": "non-published-notes/Ideas/Tools/Slack Reply Recommender"
+    },
+    {
+      "source": "/private/Ideas/Software-Development/Slack-Huddle-Recorder",
+      "target": "/non-published-notes/Ideas/Tools/Conversation-Copliot",
+      "text": "non-published-notes/Ideas/Tools/Conversation Copliot"
+    },
+    {
+      "source": "/private/Ideas/Tools/Conversation-Copliot",
+      "target": "/non-published-notes/Entites/Tools/Slack",
+      "text": "non-published-notes/Entites/Tools/Slack"
+    },
+    {
+      "source": "/private/Ideas/Tools/Conversation-Copliot",
+      "target": "/non-published-notes/Knowledge/Factual-Entity/Team-Managers",
+      "text": "non-published-notes/Knowledge/Factual Entity/Team Managers"
+    },
+    {
+      "source": "/private/Ideas/Tools/Conversation-Copliot",
+      "target": "/non-published-notes/Knowledge/Factual-Entity/Individuals",
+      "text": "non-published-notes/Knowledge/Factual Entity/Individuals"
+    },
+    {
+      "source": "/private/Ideas/Tools/Conversation-Copliot",
+      "target": "/In-Progress",
+      "text": "In Progress"
+    },
+    {
+      "source": "/private/Knowledge/1.3",
+      "target": "/non-published-notes/Knowledge/Cross-Attention",
+      "text": "non-published-notes/Knowledge/Cross Attention"
+    },
+    {
+      "source": "/private/Knowledge/1.3",
+      "target": "/non-published-notes/Knowledge/Multi-Head-Attention",
+      "text": "non-published-notes/Knowledge/Multi Head Attention"
+    },
+    {
+      "source": "/private/Knowledge/1.3",
+      "target": "/non-published-notes/Knowledge/Masked-Multi-Headed-Attention",
+      "text": "non-published-notes/Knowledge/Masked Multi Headed Attention"
+    },
+    {
+      "source": "/private/Knowledge/1.4",
+      "target": "/non-published-notes/Knowledge/Auto-Regressive",
+      "text": "non-published-notes/Knowledge/Auto Regressive"
+    },
+    {
+      "source": "/private/Knowledge/1.4",
+      "target": "/non-published-notes/Knowledge/Auto-Encoding",
+      "text": "non-published-notes/Knowledge/Auto Encoding"
+    },
+    {
+      "source": "/private/Knowledge/1.4",
+      "target": "/non-published-notes/Knowledge/Auto-Regressive",
+      "text": "non-published-notes/Knowledge/Auto Regressive"
+    },
+    {
+      "source": "/private/Knowledge/1.4",
+      "target": "/non-published-notes/Knowledge/Auto-Encoding",
+      "text": "non-published-notes/Knowledge/Auto Encoding"
+    },
+    {
+      "source": "/private/Knowledge/1.4",
+      "target": "/non-published-notes/Knowledge/Transformers",
+      "text": "non-published-notes/Knowledge/Transformers"
+    },
+    {
+      "source": "/private/Knowledge/AI/Hugging-Face",
+      "target": "/non-published-notes/Ideas/AI/Researcher",
+      "text": "Researcher"
+    },
+    {
+      "source": "/private/Knowledge/How-to-win-friends-and-influence-people",
+      "target": "/",
+      "text": ""
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+      "target": "/non-published-notes/Knowledge/Bags-of-words-Model",
+      "text": "non-published-notes/Knowledge/Bags of words Model"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+      "target": "/non-published-notes/Knowledge/RNN",
+      "text": "non-published-notes/Knowledge/RNN"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+      "target": "/non-published-notes/Knowledge/RNN",
+      "text": "non-published-notes/Knowledge/RNN"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+      "target": "/non-published-notes/Knowledge/Encoder",
+      "text": "non-published-notes/Knowledge/Encoder"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+      "target": "/non-published-notes/Knowledge/Decoder",
+      "text": "non-published-notes/Knowledge/Decoder"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.1",
+      "target": "/non-published-notes/Knowledge/Transformers",
+      "text": "non-published-notes/Knowledge/Transformers"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+      "target": "/non-published-notes/Knowledge/Attention",
+      "text": "non-published-notes/Knowledge/Attention"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+      "target": "/non-published-notes/Knowledge/Attention",
+      "text": "non-published-notes/Knowledge/Attention"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+      "target": "/non-published-notes/Knowledge/Self-Attention",
+      "text": "non-published-notes/Knowledge/Self Attention"
+    },
+    {
+      "source": "/private/Knowledge/Introduction-to-Transformer-Models-for-NLP/1.2",
+      "target": "/non-published-notes/Knowledge/scaled-dot-product-attention",
+      "text": "non-published-notes/Knowledge/scaled dot product attention"
+    },
+    {
+      "source": "/private/Knowledge/Obsidian/Obsidian-Alignment-Tracker",
+      "target": "/non-published-notes/Goal/_Goals-Database",
+      "text": "non-published-notes/Goal/_Goals Database"
+    },
+    {
+      "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+      "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Crawler",
+      "text": "non-published-notes/Knowledge/PIM Exploration/PIM Crawler"
+    },
+    {
+      "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+      "target": "/non-published-notes/Knowledge/PIM-Exploration/PIM-Integration",
+      "text": "non-published-notes/Knowledge/PIM Exploration/PIM Integration"
+    },
+    {
+      "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+      "target": "/non-published-notes/Knowledge/PIM-Exploration/Gold-Database",
+      "text": "non-published-notes/Knowledge/PIM Exploration/Gold Database"
+    },
+    {
+      "source": "/private/Knowledge/PIM-Exploration/Data-Processing-Infra",
+      "target": "/non-published-notes/Knowledge/PIM-Exploration/Compilance",
+      "text": "non-published-notes/Knowledge/PIM Exploration/Compilance"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Bit",
+      "target": "/non-published-notes/Knowledge/Researcher/Bit/Chunking-algorithm",
+      "text": "non-published-notes/Knowledge/Researcher/Bit/Chunking algorithm"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Cluster-Embedding",
+      "target": "/non-published-notes/Knowledge/Researcher/Databases/Search-Results-Database",
+      "text": "non-published-notes/Knowledge/Researcher/Databases/Search Results Database"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Databases/Ingestion-Tracker",
+      "target": "/non-published-notes/Ideas/AI/Researcher",
+      "text": "non-published-notes/Ideas/AI/Researcher#Ingestion"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Databases/Search-Query",
+      "target": "/non-published-notes/Knowledge/Researcher/Databases/Ingestion-Tracker",
+      "text": "non-published-notes/Knowledge/Researcher/Databases/Ingestion Tracker"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Databases/Search-Results-Database",
+      "target": "/non-published-notes/Knowledge/Researcher/Databases/Search-Query",
+      "text": "non-published-notes/Knowledge/Researcher/Databases/Search Query"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Deep-Crawl",
+      "target": "/non-published-notes/Knowledge/Researcher/Cluster-Embedding",
+      "text": "non-published-notes/Knowledge/Researcher/Cluster Embedding"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Deep-Crawl",
+      "target": "/non-published-notes/Knowledge/Researcher/Previous-Knowledge-Base-Clustering",
+      "text": "non-published-notes/Knowledge/Researcher/Previous Knowledge Base Clustering"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Deep-Crawl",
+      "target": "/non-published-notes/Knowledge/Researcher/Learner",
+      "text": "non-published-notes/Knowledge/Researcher/Learner"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Embedding-of-the-Bit",
+      "target": "/non-published-notes/Knowledge/Researcher/Bit",
+      "text": "non-published-notes/Knowledge/Researcher/Bit"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Learner",
+      "target": "/non-published-notes/Knowledge/Researcher/Embedding-of-the-original-query",
+      "text": "non-published-notes/Knowledge/Researcher/Embedding of the original query"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Learner",
+      "target": "/non-published-notes/Knowledge/Researcher/Embedding-of-the-Bit",
+      "text": "non-published-notes/Knowledge/Researcher/Embedding of the Bit"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Notification-which-requires-action",
+      "target": "/non-published-notes/Knowledge/Research-1/Diagrams/Notification-Which-Requires-Action",
+      "text": "non-published-notes/Knowledge/Research 1/Diagrams/Notification Which Requires Action"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Search-Term-Based-Research",
+      "target": "/non-published-notes/Knowledge/Researcher/Deep-Crawl",
+      "text": "non-published-notes/Knowledge/Researcher/Deep Crawl"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Search-Term-Based-Research",
+      "target": "/non-published-notes/Knowledge/Researcher/knowledge_base",
+      "text": "non-published-notes/Knowledge/Researcher/knowledge_base"
+    },
+    {
+      "source": "/private/Knowledge/Researcher/Search-Term-Ingestion",
+      "target": "/non-published-notes/Knowledge/Researcher/Deep-Crawl",
+      "text": "non-published-notes/Knowledge/Researcher/Deep Crawl"
+    },
+    {
+      "source": "/private/Obsidian/Button-that-creates-new-note",
+      "target": "/non-published-notes/2023-05-26-testing-123",
+      "text": "non-published-notes/2023-05-26-testing 123"
+    },
+    {
+      "source": "/private/Obsidian/Button-that-creates-new-note",
+      "target": "/non-published-notes/2023-05-26-how-are-you",
+      "text": "non-published-notes/2023-05-26-how are you"
+    },
+    {
+      "source": "/private/Obsidian/Button-that-creates-new-note",
+      "target": "/non-published-notes/2023-05-26-testing",
+      "text": "non-published-notes/2023-05-26-testing"
+    },
+    {
+      "source": "/private/Templates/day-view-template",
+      "target": "/non-published-notes/Knowledge/How-to-win-friends-and-influence-people",
+      "text": "non-published-notes/Knowledge/How to win friends and influence people"
+    },
+    {
+      "source": "/private/Templates/day-view-template",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Templates/day-view-template",
+      "target": "/Humans-of-Rhitiks-Life/",
+      "text": "Humans of Rhitik's Life/"
+    },
+    {
+      "source": "/private/Tracker/Introductory-Course",
+      "target": "/non-published-notes/Goal/No-Procastination",
+      "text": "No Procastination"
+    },
+    {
+      "source": "/private/Tracker/Mindful-CBT",
+      "target": "/non-published-notes/Tracker/Introductory-Course",
+      "text": "Introductory Course"
+    },
+    {
+      "source": "/private/Tracker/Mindful-CBT",
+      "target": "/non-published-notes/Goal/No-Procastination",
+      "text": "No Procastination"
+    },
+    {
+      "source": "/private/Tracker/Researcher",
+      "target": "/non-published-notes/Goal/Launch-first-Side-Hustle",
+      "text": "Launch first Side Hustle"
+    },
+    {
+      "source": "/private/Tracker/Researcher",
+      "target": "/non-published-notes/Ideas/AI/Researcher",
+      "text": "non-published-notes/Ideas/AI/Researcher"
+    },
+    {
+      "source": "/private/Tracker/Watch-Conversation-of-Ali-Abdaal-and-Tim-Pychyl",
+      "target": "/non-published-notes/Goal/No-Procastination",
+      "text": "No Procastination"
+    },
+    {
+      "source": "/public/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
       "target": "/notes/config",
       "text": "config"
     },
     {
-      "source": "/something-else/India",
+      "source": "/public/India",
       "target": "/notes/Asia",
       "text": "Asia"
     },
     {
-      "source": "/something-else/Music",
+      "source": "/public/Music",
       "target": "/something-else/Music",
       "text": "Punjabi"
     },
     {
-      "source": "/something-else/Music",
+      "source": "/public/Music",
       "target": "/",
       "text": "#EDM"
     },
     {
-      "source": "/something-else/Music",
+      "source": "/public/Music",
       "target": "/something-else/Who-dis",
       "text": "Who dis?"
     },
     {
-      "source": "/something-else/This-is-just-a-mere-test.",
+      "source": "/public/This-is-just-a-mere-test.",
       "target": "/notes/What-if-I-add-a-link",
       "text": "notes/What if I add a link"
     },
     {
-      "source": "/something-else/This-is-just-a-mere-test.",
+      "source": "/public/This-is-just-a-mere-test.",
       "target": "/notes/What",
       "text": "Notes"
     },
     {
-      "source": "/something-else/What-if-I-add-a-link",
+      "source": "/public/What-if-I-add-a-link",
       "target": "/notes/What-if-I-add-a-link",
       "text": "notes/What if I add a link"
     },
     {
-      "source": "/something-else/config",
+      "source": "/public/config",
       "target": "/notes/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
     {
-      "source": "/something-else/config",
+      "source": "/public/config",
       "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
       "text": "CJK + Latex Support (测试)"
     },
     {
-      "source": "/something-else/docker",
+      "source": "/public/docker",
       "target": "/notes/preview-changes",
       "text": "install Quartz's dependencies manually"
     },
     {
-      "source": "/something-else/editing",
+      "source": "/public/editing",
       "target": "/notes/obsidian",
       "text": "How to setup your Obsidian Vault to work with Quartz"
     },
     {
-      "source": "/something-else/editing",
+      "source": "/public/editing",
       "target": "/notes/preview-changes",
       "text": "Preview Quartz Changes"
     },
     {
-      "source": "/something-else/editing",
+      "source": "/public/editing",
       "target": "/notes/hosting",
       "text": "Hosting Quartz online!"
     },
     {
-      "source": "/something-else/editing",
+      "source": "/public/editing",
       "target": "/notes/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
     {
-      "source": "/something-else/hosting",
+      "source": "/public/hosting",
       "target": "/notes/custom-Domain",
       "text": "Learn how to set it up with Quartz"
     },
     {
-      "source": "/something-else/hosting",
+      "source": "/public/hosting",
       "target": "/notes/ignore-notes",
       "text": "Excluding pages from being published"
     },
     {
-      "source": "/something-else/hosting",
+      "source": "/public/hosting",
       "target": "/notes/docker",
       "text": "Docker"
     },
     {
-      "source": "/something-else/hosting",
+      "source": "/public/hosting",
       "target": "/notes/config",
       "text": "Customizing Quartz"
     },
     {
-      "source": "/something-else/hosting",
+      "source": "/public/hosting",
       "target": "/notes/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
     {
-      "source": "/something-else/obsidian",
+      "source": "/public/obsidian",
       "target": "/notes/setup",
       "text": "setup"
     },
     {
-      "source": "/something-else/obsidian",
+      "source": "/public/obsidian",
       "target": "/notes/preview-changes",
       "text": "Preview Quartz Changes"
     },
     {
-      "source": "/something-else/preview-changes",
+      "source": "/public/preview-changes",
       "target": "/notes/troubleshooting",
       "text": "the troubleshooting page"
     },
     {
-      "source": "/something-else/preview-changes",
+      "source": "/public/preview-changes",
       "target": "/notes/hosting",
       "text": "Hosting Quartz online!"
     },
     {
-      "source": "/something-else/setup",
+      "source": "/public/setup",
       "target": "/notes/editing",
       "text": "Editing Notes in Quartz"
     },
     {
-      "source": "/something-else/setup",
+      "source": "/public/setup",
       "target": "/notes/troubleshooting",
       "text": "FAQ and Troubleshooting guide"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
       "text": "CJK + Latex Support (测试)"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/hosting",
       "text": "hosting"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/ignore-notes",
       "text": "excluding pages from being published"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/hosting",
       "text": "hosting"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/obsidian",
       "text": "Obsidian"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/editing",
       "text": "the 'how to edit' guide"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/hosting",
       "text": "the hosting guide"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/config",
       "text": "customization guide"
     },
     {
-      "source": "/something-else/troubleshooting",
+      "source": "/public/troubleshooting",
       "target": "/notes/editing",
       "text": "local editing"
     }
