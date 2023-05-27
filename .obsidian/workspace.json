@@ -1,0 +1,455 @@
+{
+  "main": {
+    "id": "dd66539a63f0f1ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "3029063a26c88b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb0d30d0ee97b89f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "day view template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/day view template.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":9},\"to\":{\"line\":10,\"ch\":9}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2023-05-26",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Day View/2023-05-26.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":0},\"to\":{\"line\":65,\"ch\":3}},\"scroll\":31.92539380196928}"
+                },
+                {
+                  "title": "2023-05-27",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Day View/2023-05-27.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":35},\"to\":{\"line\":26,\"ch\":35}},\"scroll\":17.148484154212245}"
+                },
+                {
+                  "title": "Introduction to Transformer Models for NLP",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Courses/In Progress/Introduction to Transformer Models for NLP.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":11},\"to\":{\"line\":6,\"ch\":11}},\"scroll\":6.119298705888022}"
+                },
+                {
+                  "title": "2.2 Scaled Dot Product Attention",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Content/Videos/2.2 Scaled Dot Product Attention.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":48},\"to\":{\"line\":6,\"ch\":48}},\"scroll\":6.256435757540062}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c42c05259e954e72",
+    "type": "split",
+    "children": [
+      {
+        "id": "305d8a8be8ea9b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d276dec0fde24833",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ccbb55359bd0dd3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#feature",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92d95a4826082c8f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d467992280300edb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "0b9cc21cddb52fdc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "481a7088fbc04b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f09c34efedae87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd9c4fee0bd64ff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24a6c0361be46c22",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "240a54d7c6f55737",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccc2e29aa75e8643",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f2fcdb79a10a009",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a40ed4c243450d1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7362855054e15bcc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          },
+          {
+            "id": "23977075b52ebf42",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "98dc4c7825a9c653",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e488c841a41627e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-ducks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "random-note:Open random note": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "dbfolder:Create a new database table": false,
+      "omnisearch:Omnisearch": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-omnivore:Omnivore": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "periodic-notes:Open this week": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "d276dec0fde24833",
+  "lastOpenFiles": [
+    "content/something-else/docker.md",
+    "content/something-else/CJK + Latex Support (测试).md",
+    "content/something-else/philosophy.md",
+    "content/something-else/hosting.md",
+    "content/something-else/config.md",
+    "content/something-else/editing.md",
+    "content/something-else/Asia.md",
+    "content/something-else/updating.md",
+    "content/something-else/obsidian.md",
+    "content/something-else/India.md",
+    "content/something-else/preview changes.md",
+    "content/something-else/images/rhitik.jpg",
+    "content/something-else/images/obsidian-settings.png",
+    "content/something-else/images/google-domains.png",
+    "content/something-else/images/github-pages.png",
+    "content/something-else/images/github-actions.png",
+    "content/something-else/images/fork.png",
+    "content/something-else/images",
+    "content/something-else/showcase.md",
+    "content/something-else/setup.md",
+    "content/something-else/custom Domain.md",
+    "content/something-else/troubleshooting.md",
+    "content/something-else/callouts.md",
+    "content/something-else/This is just a mere test..md",
+    "content/something-else/Who dis?.md",
+    "content/something-else/Music.md",
+    "content/something-else/search.md",
+    "content/something-else/images.md",
+    "content/something-else/What if I add a link.md",
+    "content/something-else/Bahubali Colony 53.m4a",
+    "content/something-else",
+    "content/templates/post.md",
+    "content/templates",
+    "content/Recording 20230513104508.webm",
+    "content/private/private-note.md",
+    "content/private",
+    "content/notes/showcase.md",
+    "content/notes",
+    "Dockerfile",
+    "README.md",
+    "LICENSE.txt",
+    "config.toml",
+    "screenshot.png",
+    "Assets/Screenshot 2023-05-26 at 10.11.31 PM.png",
+    "Assets/Screenshot 2023-05-26 at 10.05.28 PM.png",
+    "Assets/Pasted Image 20230526215818_575.png",
+    "Knowledge/PIM.canvas",
+    "Untitled.canvas",
+    "Knowledge/C4 Diagram Dissection.canvas",
+    "Day View/Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

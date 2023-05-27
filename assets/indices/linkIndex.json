@@ -1,0 +1,627 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/something-else/Who-dis",
+          "text": "something-else/Who dis?"
+        },
+        {
+          "source": "/",
+          "target": "/something-else/Music",
+          "text": "something-else/Music"
+        }
+      ],
+      "/something-else/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95": [
+        {
+          "source": "/something-else/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "target": "/notes/config",
+          "text": "config"
+        }
+      ],
+      "/something-else/India": [
+        {
+          "source": "/something-else/India",
+          "target": "/notes/Asia",
+          "text": "Asia"
+        }
+      ],
+      "/something-else/Music": [
+        {
+          "source": "/something-else/Music",
+          "target": "/something-else/Music",
+          "text": "Punjabi"
+        },
+        {
+          "source": "/something-else/Music",
+          "target": "/",
+          "text": "#EDM"
+        },
+        {
+          "source": "/something-else/Music",
+          "target": "/something-else/Who-dis",
+          "text": "Who dis?"
+        }
+      ],
+      "/something-else/This-is-just-a-mere-test.": [
+        {
+          "source": "/something-else/This-is-just-a-mere-test.",
+          "target": "/notes/What-if-I-add-a-link",
+          "text": "notes/What if I add a link"
+        },
+        {
+          "source": "/something-else/This-is-just-a-mere-test.",
+          "target": "/notes/What",
+          "text": "Notes"
+        }
+      ],
+      "/something-else/What-if-I-add-a-link": [
+        {
+          "source": "/something-else/What-if-I-add-a-link",
+          "target": "/notes/What-if-I-add-a-link",
+          "text": "notes/What if I add a link"
+        }
+      ],
+      "/something-else/config": [
+        {
+          "source": "/something-else/config",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "/something-else/config",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support (测试)"
+        }
+      ],
+      "/something-else/docker": [
+        {
+          "source": "/something-else/docker",
+          "target": "/notes/preview-changes",
+          "text": "install Quartz's dependencies manually"
+        }
+      ],
+      "/something-else/editing": [
+        {
+          "source": "/something-else/editing",
+          "target": "/notes/obsidian",
+          "text": "How to setup your Obsidian Vault to work with Quartz"
+        },
+        {
+          "source": "/something-else/editing",
+          "target": "/notes/preview-changes",
+          "text": "Preview Quartz Changes"
+        },
+        {
+          "source": "/something-else/editing",
+          "target": "/notes/hosting",
+          "text": "Hosting Quartz online!"
+        },
+        {
+          "source": "/something-else/editing",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "/something-else/hosting": [
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/custom-Domain",
+          "text": "Learn how to set it up with Quartz"
+        },
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/ignore-notes",
+          "text": "Excluding pages from being published"
+        },
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/docker",
+          "text": "Docker"
+        },
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/config",
+          "text": "Customizing Quartz"
+        },
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "/something-else/obsidian": [
+        {
+          "source": "/something-else/obsidian",
+          "target": "/notes/setup",
+          "text": "setup"
+        },
+        {
+          "source": "/something-else/obsidian",
+          "target": "/notes/preview-changes",
+          "text": "Preview Quartz Changes"
+        }
+      ],
+      "/something-else/preview-changes": [
+        {
+          "source": "/something-else/preview-changes",
+          "target": "/notes/troubleshooting",
+          "text": "the troubleshooting page"
+        },
+        {
+          "source": "/something-else/preview-changes",
+          "target": "/notes/hosting",
+          "text": "Hosting Quartz online!"
+        }
+      ],
+      "/something-else/setup": [
+        {
+          "source": "/something-else/setup",
+          "target": "/notes/editing",
+          "text": "Editing Notes in Quartz"
+        },
+        {
+          "source": "/something-else/setup",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "/something-else/troubleshooting": [
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support (测试)"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/ignore-notes",
+          "text": "excluding pages from being published"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/obsidian",
+          "text": "Obsidian"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/editing",
+          "text": "the 'how to edit' guide"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "the hosting guide"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/config",
+          "text": "customization guide"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/editing",
+          "text": "local editing"
+        }
+      ]
+    },
+    "backlinks": {
+      "/": [
+        {
+          "source": "/something-else/Music",
+          "target": "/",
+          "text": "#EDM"
+        }
+      ],
+      "/notes/Asia": [
+        {
+          "source": "/something-else/India",
+          "target": "/notes/Asia",
+          "text": "Asia"
+        }
+      ],
+      "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95": [
+        {
+          "source": "/something-else/config",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support (测试)"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "text": "CJK + Latex Support (测试)"
+        }
+      ],
+      "/notes/What": [
+        {
+          "source": "/something-else/This-is-just-a-mere-test.",
+          "target": "/notes/What",
+          "text": "Notes"
+        }
+      ],
+      "/notes/What-if-I-add-a-link": [
+        {
+          "source": "/something-else/This-is-just-a-mere-test.",
+          "target": "/notes/What-if-I-add-a-link",
+          "text": "notes/What if I add a link"
+        },
+        {
+          "source": "/something-else/What-if-I-add-a-link",
+          "target": "/notes/What-if-I-add-a-link",
+          "text": "notes/What if I add a link"
+        }
+      ],
+      "/notes/config": [
+        {
+          "source": "/something-else/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+          "target": "/notes/config",
+          "text": "config"
+        },
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/config",
+          "text": "Customizing Quartz"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/config",
+          "text": "customization guide"
+        }
+      ],
+      "/notes/custom-Domain": [
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/custom-Domain",
+          "text": "Learn how to set it up with Quartz"
+        }
+      ],
+      "/notes/docker": [
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/docker",
+          "text": "Docker"
+        }
+      ],
+      "/notes/editing": [
+        {
+          "source": "/something-else/setup",
+          "target": "/notes/editing",
+          "text": "Editing Notes in Quartz"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/editing",
+          "text": "the 'how to edit' guide"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/editing",
+          "text": "local editing"
+        }
+      ],
+      "/notes/hosting": [
+        {
+          "source": "/something-else/editing",
+          "target": "/notes/hosting",
+          "text": "Hosting Quartz online!"
+        },
+        {
+          "source": "/something-else/preview-changes",
+          "target": "/notes/hosting",
+          "text": "Hosting Quartz online!"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "hosting"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/hosting",
+          "text": "the hosting guide"
+        }
+      ],
+      "/notes/ignore-notes": [
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/ignore-notes",
+          "text": "Excluding pages from being published"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/ignore-notes",
+          "text": "excluding pages from being published"
+        }
+      ],
+      "/notes/obsidian": [
+        {
+          "source": "/something-else/editing",
+          "target": "/notes/obsidian",
+          "text": "How to setup your Obsidian Vault to work with Quartz"
+        },
+        {
+          "source": "/something-else/troubleshooting",
+          "target": "/notes/obsidian",
+          "text": "Obsidian"
+        }
+      ],
+      "/notes/preview-changes": [
+        {
+          "source": "/something-else/docker",
+          "target": "/notes/preview-changes",
+          "text": "install Quartz's dependencies manually"
+        },
+        {
+          "source": "/something-else/editing",
+          "target": "/notes/preview-changes",
+          "text": "Preview Quartz Changes"
+        },
+        {
+          "source": "/something-else/obsidian",
+          "target": "/notes/preview-changes",
+          "text": "Preview Quartz Changes"
+        }
+      ],
+      "/notes/setup": [
+        {
+          "source": "/something-else/obsidian",
+          "target": "/notes/setup",
+          "text": "setup"
+        }
+      ],
+      "/notes/troubleshooting": [
+        {
+          "source": "/something-else/config",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "/something-else/editing",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "/something-else/hosting",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        },
+        {
+          "source": "/something-else/preview-changes",
+          "target": "/notes/troubleshooting",
+          "text": "the troubleshooting page"
+        },
+        {
+          "source": "/something-else/setup",
+          "target": "/notes/troubleshooting",
+          "text": "FAQ and Troubleshooting guide"
+        }
+      ],
+      "/something-else/Music": [
+        {
+          "source": "/",
+          "target": "/something-else/Music",
+          "text": "something-else/Music"
+        },
+        {
+          "source": "/something-else/Music",
+          "target": "/something-else/Music",
+          "text": "Punjabi"
+        }
+      ],
+      "/something-else/Who-dis": [
+        {
+          "source": "/",
+          "target": "/something-else/Who-dis",
+          "text": "something-else/Who dis?"
+        },
+        {
+          "source": "/something-else/Music",
+          "target": "/something-else/Who-dis",
+          "text": "Who dis?"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/",
+      "target": "/something-else/Who-dis",
+      "text": "something-else/Who dis?"
+    },
+    {
+      "source": "/",
+      "target": "/something-else/Music",
+      "text": "something-else/Music"
+    },
+    {
+      "source": "/something-else/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "target": "/notes/config",
+      "text": "config"
+    },
+    {
+      "source": "/something-else/India",
+      "target": "/notes/Asia",
+      "text": "Asia"
+    },
+    {
+      "source": "/something-else/Music",
+      "target": "/something-else/Music",
+      "text": "Punjabi"
+    },
+    {
+      "source": "/something-else/Music",
+      "target": "/",
+      "text": "#EDM"
+    },
+    {
+      "source": "/something-else/Music",
+      "target": "/something-else/Who-dis",
+      "text": "Who dis?"
+    },
+    {
+      "source": "/something-else/This-is-just-a-mere-test.",
+      "target": "/notes/What-if-I-add-a-link",
+      "text": "notes/What if I add a link"
+    },
+    {
+      "source": "/something-else/This-is-just-a-mere-test.",
+      "target": "/notes/What",
+      "text": "Notes"
+    },
+    {
+      "source": "/something-else/What-if-I-add-a-link",
+      "target": "/notes/What-if-I-add-a-link",
+      "text": "notes/What if I add a link"
+    },
+    {
+      "source": "/something-else/config",
+      "target": "/notes/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "/something-else/config",
+      "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "text": "CJK + Latex Support (测试)"
+    },
+    {
+      "source": "/something-else/docker",
+      "target": "/notes/preview-changes",
+      "text": "install Quartz's dependencies manually"
+    },
+    {
+      "source": "/something-else/editing",
+      "target": "/notes/obsidian",
+      "text": "How to setup your Obsidian Vault to work with Quartz"
+    },
+    {
+      "source": "/something-else/editing",
+      "target": "/notes/preview-changes",
+      "text": "Preview Quartz Changes"
+    },
+    {
+      "source": "/something-else/editing",
+      "target": "/notes/hosting",
+      "text": "Hosting Quartz online!"
+    },
+    {
+      "source": "/something-else/editing",
+      "target": "/notes/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "/something-else/hosting",
+      "target": "/notes/custom-Domain",
+      "text": "Learn how to set it up with Quartz"
+    },
+    {
+      "source": "/something-else/hosting",
+      "target": "/notes/ignore-notes",
+      "text": "Excluding pages from being published"
+    },
+    {
+      "source": "/something-else/hosting",
+      "target": "/notes/docker",
+      "text": "Docker"
+    },
+    {
+      "source": "/something-else/hosting",
+      "target": "/notes/config",
+      "text": "Customizing Quartz"
+    },
+    {
+      "source": "/something-else/hosting",
+      "target": "/notes/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "/something-else/obsidian",
+      "target": "/notes/setup",
+      "text": "setup"
+    },
+    {
+      "source": "/something-else/obsidian",
+      "target": "/notes/preview-changes",
+      "text": "Preview Quartz Changes"
+    },
+    {
+      "source": "/something-else/preview-changes",
+      "target": "/notes/troubleshooting",
+      "text": "the troubleshooting page"
+    },
+    {
+      "source": "/something-else/preview-changes",
+      "target": "/notes/hosting",
+      "text": "Hosting Quartz online!"
+    },
+    {
+      "source": "/something-else/setup",
+      "target": "/notes/editing",
+      "text": "Editing Notes in Quartz"
+    },
+    {
+      "source": "/something-else/setup",
+      "target": "/notes/troubleshooting",
+      "text": "FAQ and Troubleshooting guide"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/CJK-+-Latex-Support-%E6%B5%8B%E8%AF%95",
+      "text": "CJK + Latex Support (测试)"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/hosting",
+      "text": "hosting"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/ignore-notes",
+      "text": "excluding pages from being published"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/hosting",
+      "text": "hosting"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/obsidian",
+      "text": "Obsidian"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/editing",
+      "text": "the 'how to edit' guide"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/hosting",
+      "text": "the hosting guide"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/config",
+      "text": "customization guide"
+    },
+    {
+      "source": "/something-else/troubleshooting",
+      "target": "/notes/editing",
+      "text": "local editing"
+    }
+  ]
+}
