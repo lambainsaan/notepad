@@ -5,14 +5,14 @@ disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
-    "/content/non-published-notes/*",
-    "/content/non-published-notes/*/*",
-    "/content/non-published-notes/*/*/*",
-    "/content/non-published-notes/*/*/*/*",
-    "/content/non-published-notes/*/*/*/*/*",
-    "/content/non-published-notes/*/*/*/*/*/*",
-    "/content/non-published-notes/*/*/*/*/*/*/*",
-    "/content/non-published-notes/*/*/*/*/*/*/*/*",
+    "/content/private/*",
+    "/content/private/*/*",
+    "/content/private/*/*/*",
+    "/content/private/*/*/*/*",
+    "/content/private/*/*/*/*/*",
+    "/content/private/*/*/*/*/*/*",
+    "/content/private/*/*/*/*/*/*/*",
+    "/content/private/*/*/*/*/*/*/*/*",
 ]
 summaryLength = 20
 paginate = 10
