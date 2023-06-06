@@ -1,0 +1,3 @@
+[submodule "raw-content/public"]
+	path = raw-content/public
+	url = https://github.com/lambainsaan/notepad-raw
