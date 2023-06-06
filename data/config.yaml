@@ -10,16 +10,15 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: false
+enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/lambainsaan/notepad-raw
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Rhitik's Obsidian notepad, where he jots down about life, tech, and also it's his instagram! 🤳
 page_title:
   "🪴 Rhitik's Notebook"
 links:
