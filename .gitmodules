@@ -1,6 +1,0 @@
-[submodule "content/"]
-	path = content/
-	url = https://github.com/lambainsaan/notepad-raw
-[submodule "content"]
-	path = content
-	url = https://github.com/lambainsaan/notepad-raw
