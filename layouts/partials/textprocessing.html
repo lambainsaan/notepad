@@ -77,7 +77,7 @@
       {{$href := printf "/%s/%s" $dirname $basename}}
       <!-- Embedded? -->
       {{if (hasPrefix . "!")}}
-        {{ $embed_ext := lower (path.Ext $href) }}
+        {{ $embed_ext := (path.Ext $href) }}
         <!-- Image -->
         {{if in ".png .jpg .jpeg .gif .bmp .svg" $embed_ext }}
           {{$width := default "auto" (index $split 1) }}
@@ -138,7 +138,7 @@
       {{ else}}
         {{ $inner = $inner | replaceRE `\[!([a-zA-Z]+)\]` `${1}` }}
       {{ end }}
-      {{ $inner = printf "blockquote class=\"%s-callout\"" $inner | lower}}
+      {{ $inner = printf "blockquote class=\"%s-callout\"" $inner }}
       {{ $content = replace $content . $inner 1}}
       {{ $counter1 = add $counter1 1 }}
     {{ else }}
