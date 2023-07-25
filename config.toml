@@ -1,7 +1,7 @@
 baseURL = "https://lambainsaan.github.io/notepad"
 languageCode = "en-us"
 relativeURLs = false
-disablePathToLower = true
+disablePathToLower = false
 ignoreFiles = [
 ]
 summaryLength = 20
