@@ -16,7 +16,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,7 +27,7 @@ jobs:
       - name: Install Dependencies
         run: pnpm install
       - name: Build Quartz
-        run: npx quartz build -d docs
+        run: npx quartz build -d content
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
